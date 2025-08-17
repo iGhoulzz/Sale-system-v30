@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sales Management System\n"
+"POT-Creation-Date: 2023-08-17 12:00+0000\n"
+"PO-Revision-Date: 2023-08-17 12:00+0000\n"
+"Last-Translator: Auto Translator <auto@example.com>\n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: extract_messages.py\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+# Main Menu
+msgid "Sales Management System"
+msgstr "نظام إدارة المبيعات"
+
+msgid "Logged in as:"
+msgstr "تم تسجيل الدخول باسم:"
+
+msgid "Manage Inventory"
+msgstr "إدارة المخزون"
+
+msgid "Sales Screen"
+msgstr "شاشة المبيعات"
+
+msgid "Manage Debits"
+msgstr "إدارة الديون"
+
+msgid "Financial Dashboard"
+msgstr "لوحة المعلومات المالية"
+
+msgid "Logout"
+msgstr "تسجيل خروج"
+
+msgid "Exit"
+msgstr "خروج"
+
+msgid "Back to Home"
+msgstr "العودة إلى الرئيسية"
+
+# Common UI elements
+msgid "Cancel"
+msgstr "إلغاء"
+
+msgid "Save"
+msgstr "حفظ"
+
+msgid "Add"
+msgstr "إضافة"
+
+msgid "Edit"
+msgstr "تعديل"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "OK"
+msgstr "موافق"
+
+msgid "Error"
+msgstr "خطأ"
+
+msgid "Warning"
+msgstr "تحذير"
+
+msgid "Success"
+msgstr "نجاح"
+
+msgid "Confirm"
+msgstr "تأكيد"
+
+msgid "Search"
+msgstr "بحث"
+
+# Sales page
+msgid "Sales Management Screen"
+msgstr "شاشة إدارة المبيعات"
+
+msgid "Enter Barcode/QR Code:"
+msgstr "أدخل الباركود/رمز QR:"
+
+msgid "Add to Cart"
+msgstr "أضف إلى السلة"
+
+msgid "Scan Code"
+msgstr "مسح الرمز"
+
+msgid "Search Products"
+msgstr "بحث المنتجات"
+
+msgid "Category:"
+msgstr "الفئة:"
+
+msgid "Add Selected Product"
+msgstr "أضف المنتج المحدد"
+
+msgid "Shopping Cart"
+msgstr "عربة التسوق"
+
+msgid "Payment Method:"
+msgstr "طريقة الدفع:"
+
+msgid "Discount:"
+msgstr "خصم:"
+
+msgid "Subtotal:"
+msgstr "المجموع الفرعي:"
+
+msgid "Total:"
+msgstr "المجموع:"
+
+msgid "Complete Sale"
+msgstr "إتمام البيع"
+
+msgid "Mark As Debit"
+msgstr "تسجيل كدين"
+
+msgid "Reset Cart"
+msgstr "إعادة تعيين السلة"
+
+msgid "View Invoices"
+msgstr "عرض الفواتير"
+
+# Inventory page
+msgid "Inventory Management"
+msgstr "إدارة المخزون"
+
+msgid "Add Product"
+msgstr "إضافة منتج"
+
+msgid "Edit Product"
+msgstr "تعديل المنتج"
+
+msgid "Delete Product"
+msgstr "حذف المنتج"
+
+msgid "Product Name:"
+msgstr "اسم المنتج:"
+
+msgid "Buying Price:"
+msgstr "سعر الشراء:"
+
+msgid "Selling Price:"
+msgstr "سعر البيع:"
+
+msgid "Stock:"
+msgstr "المخزون:"
+
+msgid "Category:"
+msgstr "الفئة:"
+
+msgid "Barcode:"
+msgstr "الباركود:"
+
+# Debits page
+msgid "Manage Debits"
+msgstr "إدارة الديون"
+
+msgid "Add New Debit"
+msgstr "إضافة دين جديد"
+
+msgid "Customer Name:"
+msgstr "اسم العميل:"
+
+msgid "Phone Number:"
+msgstr "رقم الهاتف:"
+
+msgid "Invoice ID:"
+msgstr "رقم الفاتورة:"
+
+msgid "Amount:"
+msgstr "المبلغ:"
+
+msgid "Notes:"
+msgstr "ملاحظات:"
+
+msgid "Payment"
+msgstr "دفع"
+
+msgid "Make Payment"
+msgstr "تسديد دفعة"
+
+msgid "Print Invoice"
+msgstr "طباعة الفاتورة"
+
+msgid "View Invoice Items"
+msgstr "عرض عناصر الفاتورة"
+
+# Language settings
+msgid "Language"
+msgstr "اللغة"
+
+msgid "English"
+msgstr "الإنجليزية"
+
+msgid "Arabic"
+msgstr "العربية"
+
+msgid "Switch to Arabic"
+msgstr "تغيير إلى العربية"
+
+msgid "Switch to English"
+msgstr "تغيير إلى الإنجليزية" 

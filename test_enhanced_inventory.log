@@ -1,0 +1,9 @@
+2025-07-19 04:10:18,118 - data_access - INFO - Scheduled cache cleanup every 30.0 minutes
+2025-07-19 04:10:18,159 - modules.i18n - INFO - Loaded language preference: en
+2025-07-19 04:10:18,159 - modules.i18n - INFO - Created empty but valid MO file: C:\Users\User\Desktop\sale-system - V30\locales\ar\LC_MESSAGES\messages.mo
+2025-07-19 04:12:23,234 - data_access - INFO - Scheduled cache cleanup every 30.0 minutes
+2025-07-19 04:12:23,265 - modules.i18n - INFO - Loaded language preference: en
+2025-07-19 04:12:23,266 - modules.i18n - INFO - Created empty but valid MO file: C:\Users\User\Desktop\sale-system - V30\locales\ar\LC_MESSAGES\messages.mo
+2025-07-19 04:23:44,362 - data_access - INFO - Scheduled cache cleanup every 30.0 minutes
+2025-07-19 04:23:44,375 - modules.i18n - INFO - Loaded language preference: en
+2025-07-19 04:23:44,376 - modules.i18n - INFO - Created empty but valid MO file: C:\Users\User\Desktop\sale-system - V30\locales\ar\LC_MESSAGES\messages.mo

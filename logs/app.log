@@ -1,0 +1,1198 @@
+2025-04-21 21:37:09,791 - SalesSystem - INFO - User logged in: Gehad
+2025-04-21 21:39:36,410 - SalesSystem - INFO - User 1: Added pepsi (ID: 1) to cart
+2025-04-21 22:18:48,605 - SalesSystem - INFO - User logged in: Gehad
+2025-04-21 22:24:29,634 - SalesSystem - INFO - User logged in: Gehad
+2025-04-21 22:25:01,157 - SalesSystem - INFO - User 1: Added joody (ID: 2) to cart
+2025-04-21 22:34:30,721 - SalesSystem - INFO - User logged in: Gehad
+2025-04-21 23:12:22,999 - SalesSystem - INFO - User logged in: Gehad
+2025-04-21 23:46:02,219 - SalesSystem - INFO - User logged in: Gehad
+2025-04-21 23:49:15,428 - SalesSystem - INFO - User logged in: Gehad
+2025-04-21 23:52:56,495 - SalesSystem - INFO - User 1: Added pepsi (ID: 1) to cart
+2025-04-21 23:53:03,051 - SalesSystem - INFO - User 1: Increased quantity of pepsi (ID: 1) to 2 in cart
+2025-04-21 23:53:04,424 - SalesSystem - INFO - User 1: Decreased quantity of pepsi (ID: 1) to 1 in cart
+2025-04-21 23:53:24,496 - SalesSystem - INFO - User 1: Cleared shopping cart
+2025-04-21 23:53:56,896 - SalesSystem - INFO - User 1: Added joody (ID: 2) to cart
+2025-04-21 23:53:59,498 - SalesSystem - INFO - User 1: Increased quantity of joody (ID: 2) to 2 in cart
+2025-04-21 23:54:18,446 - SalesSystem - ERROR - Error logging activity: database is locked
+2025-04-21 23:54:21,965 - SalesSystem - INFO - User 1: Cleared shopping cart
+2025-04-22 00:09:20,352 - SalesSystem - INFO - User logged in: Gehad
+2025-04-22 00:14:53,373 - SalesSystem - INFO - User logged in: Gehad
+2025-04-22 00:25:23,406 - SalesSystem - INFO - User logged in: Gehad
+2025-04-22 16:37:20,392 - SalesSystem - INFO - User logged in: Gehad
+2025-04-22 23:53:16,472 - SalesSystem - INFO - User logged in: Gehad
+2025-04-22 23:55:33,561 - SalesSystem - INFO - User 1: Added pepsi (ID: 1) to cart
+2025-04-22 23:55:41,143 - SalesSystem - INFO - User 1: Cleared shopping cart
+2025-04-23 00:18:59,414 - SalesSystem - INFO - User logged in: Ahmed
+2025-04-23 00:23:48,679 - SalesSystem - INFO - User logged in: Ahmed
+2025-04-23 00:26:53,752 - SalesSystem - INFO - User logged in: Gehad
+2025-04-23 00:53:38,155 - SalesSystem - INFO - User logged in: Gehad
+2025-04-23 01:14:38,200 - SalesSystem - INFO - User logged in: Gehad
+2025-04-23 01:14:57,027 - SalesSystem - INFO - User 1: Error searching products: no such column: Description
+2025-04-23 01:14:58,716 - SalesSystem - INFO - User 1: Error searching products: no such column: Description
+2025-04-23 01:15:05,899 - SalesSystem - INFO - User 1: Error searching products: no such column: Description
+2025-04-23 01:15:08,623 - SalesSystem - INFO - User 1: Error searching products: no such column: Description
+2025-04-23 01:29:15,217 - SalesSystem - INFO - User logged in: Gehad
+2025-04-23 01:29:21,508 - SalesSystem - INFO - User 1: Error searching products: no such column: Description
+2025-04-23 01:39:18,122 - SalesSystem - INFO - User logged in: Gehad
+2025-04-23 01:39:23,802 - SalesSystem - INFO - User 1: Error searching products: no such column: Description
+2025-04-23 01:39:42,721 - SalesSystem - INFO - User logged in: Gehad
+2025-04-23 01:39:49,836 - SalesSystem - INFO - User 1: Error searching products: no such column: Description
+2025-04-23 02:06:35,239 - SalesSystem - INFO - User logged in: Gehad
+2025-04-23 02:06:36,871 - SalesSystem - INFO - User 1: Searched products: All / '' - Found 2 results
+2025-04-23 02:06:38,634 - SalesSystem - INFO - User 1: Added joody (ID: 2) to cart
+2025-04-23 02:09:50,580 - SalesSystem - INFO - User logged in: Gehad
+2025-04-23 02:09:54,698 - SalesSystem - INFO - User 1: Searched products: All / '' - Found 2 results
+2025-04-23 02:09:59,019 - SalesSystem - INFO - User 1: Added pepsi (ID: 1) to cart
+2025-04-23 02:10:32,459 - SalesSystem - INFO - User 1: Error creating debit: Could not create debit: table Invoices has no column named Amount
+2025-04-23 02:10:58,027 - SalesSystem - INFO - User 1: Error during sale: Could not complete sale: complete_sale() got an unexpected keyword argument 'discount'
+2025-04-23 02:11:37,047 - SalesSystem - INFO - User 1: Searched products: All / '' - Found 3 results
+2025-04-23 02:19:48,358 - SalesSystem - INFO - User logged in: Gehad
+2025-04-23 02:19:50,733 - SalesSystem - INFO - User 1: Searched products: All / '' - Found 3 results
+2025-04-23 02:19:52,644 - SalesSystem - INFO - User 1: Added TANGO (ID: 3) to cart
+2025-04-23 02:20:02,772 - SalesSystem - INFO - User 1: Error during sale: Could not complete sale: complete_sale() got an unexpected keyword argument 'discount'
+2025-04-23 02:21:03,510 - SalesSystem - INFO - User 1: Cleared shopping cart
+2025-04-23 02:36:38,434 - SalesSystem - INFO - User logged in: Gehad
+2025-04-23 17:52:48,677 - SalesSystem - INFO - User logged in: Gehad
+2025-04-23 17:52:54,358 - SalesSystem - INFO - User 1: Searched products: All / '' - Found 3 results
+2025-04-23 18:01:40,556 - SalesSystem - INFO - User logged in: Gehad
+2025-04-24 00:56:32,313 - SalesSystem - INFO - User logged in: Gehad
+2025-04-24 01:12:15,800 - SalesSystem - INFO - User logged in: Gehad
+2025-04-24 01:42:42,384 - SalesSystem - INFO - User logged in: Gehad
+2025-04-24 02:02:14,530 - SalesSystem - INFO - User logged in: Gehad
+2025-04-24 02:07:34,016 - SalesSystem - INFO - User logged in: Gehad
+2025-04-24 03:02:52,701 - SalesSystem - INFO - User logged in: Gehad
+2025-04-25 00:55:00,001 - SalesSystem - INFO - User logged in: Gehad
+2025-04-25 01:27:28,400 - SalesSystem - INFO - User logged in: Gehad
+2025-04-26 01:16:53,491 - SalesSystem - INFO - User logged in: Gehad
+2025-04-26 01:17:19,595 - SalesSystem - INFO - User 1: Searched products: All / '' - Found 3 results
+2025-04-26 01:17:21,584 - SalesSystem - INFO - User 1: Added TANGO (ID: 3) to cart
+2025-04-26 01:17:26,835 - SalesSystem - INFO - User 1: Error during sale: Could not complete sale: 'sqlite3.Connection' object has no attribute 'lastrowid'
+2025-04-26 01:29:52,104 - SalesSystem - INFO - User logged in: Gehad
+2025-04-26 01:30:25,503 - SalesSystem - INFO - User 1: Searched products: All / '' - Found 3 results
+2025-04-26 01:30:27,358 - SalesSystem - INFO - User 1: Added TANGO (ID: 3) to cart
+2025-04-26 01:30:29,211 - SalesSystem - INFO - User 1: Error during sale: Could not complete sale: 'sqlite3.Connection' object has no attribute 'lastrowid'
+2025-04-26 01:30:30,350 - SalesSystem - INFO - User 1: Cleared shopping cart
+2025-04-26 01:32:31,162 - SalesSystem - INFO - User logged in: Gehad
+2025-04-26 01:44:19,234 - SalesSystem - INFO - User logged in: Gehad
+2025-04-26 01:44:41,523 - SalesSystem - INFO - User 1: Searched products: All / '' - Found 3 results
+2025-04-26 01:44:44,934 - SalesSystem - INFO - User 1: Added TANGO (ID: 3) to cart
+2025-04-26 01:44:46,762 - SalesSystem - INFO - User 1: Cleared shopping cart
+2025-04-26 01:51:17,925 - SalesSystem - INFO - User logged in: Gehad
+2025-04-29 00:01:24,825 - SalesSystem - INFO - User logged in: Gehad
+2025-04-29 00:07:29,116 - SalesSystem - INFO - User logged in: Gehad
+2025-05-02 23:05:15,356 - SalesSystem - INFO - User logged in: Gehad
+2025-05-02 23:22:17,027 - SalesSystem - INFO - User logged in: Gehad
+2025-05-02 23:22:19,724 - SalesSystem - INFO - Language changed to ar
+2025-05-02 23:22:23,050 - SalesSystem - INFO - Language changed to en
+2025-05-02 23:22:23,782 - SalesSystem - INFO - Language changed to ar
+2025-05-02 23:22:24,401 - SalesSystem - INFO - Language changed to en
+2025-05-02 23:22:27,714 - SalesSystem - INFO - Language changed to ar
+2025-05-02 23:22:28,193 - SalesSystem - INFO - Language changed to en
+2025-05-02 23:31:53,083 - SalesSystem - INFO - User logged in: Gehad
+2025-05-02 23:31:54,498 - SalesSystem - INFO - Language changed to ar
+2025-05-02 23:32:04,691 - SalesSystem - INFO - Language changed to en
+2025-05-02 23:32:05,263 - SalesSystem - INFO - Language changed to ar
+2025-05-02 23:32:05,548 - SalesSystem - INFO - Language changed to en
+2025-05-02 23:32:05,735 - SalesSystem - INFO - Language changed to ar
+2025-05-02 23:32:05,901 - SalesSystem - INFO - Language changed to en
+2025-05-02 23:32:06,222 - SalesSystem - INFO - Language changed to ar
+2025-05-02 23:32:06,645 - SalesSystem - INFO - Language changed to en
+2025-05-02 23:32:08,526 - SalesSystem - INFO - Language changed to ar
+2025-05-02 23:32:09,068 - SalesSystem - INFO - Language changed to en
+2025-05-02 23:40:39,155 - SalesSystem - INFO - User logged in: Gehad
+2025-05-02 23:48:18,376 - SalesSystem - INFO - User logged in: Gehad
+2025-05-02 23:48:19,802 - SalesSystem - INFO - Language changed to ar
+2025-05-02 23:48:25,867 - SalesSystem - INFO - Language changed to en
+2025-05-02 23:48:27,558 - SalesSystem - INFO - Language changed to ar
+2025-05-02 23:48:42,563 - SalesSystem - INFO - Language changed to en
+2025-05-02 23:48:43,021 - SalesSystem - INFO - Language changed to ar
+2025-05-02 23:56:10,533 - SalesSystem - INFO - User logged in: Gehad
+2025-05-02 23:56:12,548 - SalesSystem - INFO - Toggling language from ar to en
+2025-05-02 23:56:12,575 - SalesSystem - INFO - Expected button text: 'Switch to Arabic'
+2025-05-02 23:56:12,578 - SalesSystem - INFO - Number of registered callbacks: 3
+2025-05-02 23:56:12,578 - SalesSystem - INFO - Language changed to en
+2025-05-02 23:56:23,928 - SalesSystem - INFO - User 1: Searched products: All / '' - Found 3 results
+2025-05-02 23:57:02,679 - SalesSystem - INFO - Toggling language from en to ar
+2025-05-02 23:57:02,693 - SalesSystem - INFO - Number of registered callbacks: 3
+2025-05-02 23:57:02,693 - SalesSystem - INFO - Language changed to ar
+2025-05-03 00:01:48,647 - SalesSystem - INFO - User logged in: Gehad
+2025-05-03 00:01:50,124 - SalesSystem - INFO - Toggling language from ar to en
+2025-05-03 00:01:50,138 - SalesSystem - INFO - Expected button text: 'Switch to Arabic'
+2025-05-03 00:01:50,140 - SalesSystem - INFO - Number of registered callbacks: 3
+2025-05-03 00:01:50,141 - SalesSystem - INFO - Language changed to en
+2025-05-03 00:01:51,005 - SalesSystem - INFO - Toggling language from en to ar
+2025-05-03 00:01:51,020 - SalesSystem - INFO - Number of registered callbacks: 3
+2025-05-03 00:01:51,020 - SalesSystem - INFO - Language changed to ar
+2025-05-03 00:01:51,383 - SalesSystem - INFO - Toggling language from ar to en
+2025-05-03 00:01:51,392 - SalesSystem - INFO - Expected button text: 'Switch to Arabic'
+2025-05-03 00:01:51,395 - SalesSystem - INFO - Number of registered callbacks: 3
+2025-05-03 00:01:51,395 - SalesSystem - INFO - Language changed to en
+2025-05-03 00:02:14,041 - SalesSystem - INFO - Toggling language from en to ar
+2025-05-03 00:02:14,057 - SalesSystem - INFO - Number of registered callbacks: 3
+2025-05-03 00:02:14,057 - SalesSystem - INFO - Language changed to ar
+2025-05-03 00:02:17,783 - SalesSystem - INFO - Toggling language from ar to en
+2025-05-03 00:02:17,791 - SalesSystem - INFO - Expected button text: 'Switch to Arabic'
+2025-05-03 00:02:17,794 - SalesSystem - INFO - Number of registered callbacks: 3
+2025-05-03 00:02:17,794 - SalesSystem - INFO - Language changed to en
+2025-05-03 00:04:20,337 - SalesSystem - INFO - User logged in: Gehad
+2025-05-03 00:04:21,825 - SalesSystem - INFO - Toggling language from en to ar
+2025-05-03 00:04:21,849 - SalesSystem - INFO - Test translation of 'Sales Management System': 'Sales Management System'
+2025-05-03 00:04:21,850 - SalesSystem - INFO - Current lang button text: 'Switch to English'
+2025-05-03 00:04:21,850 - SalesSystem - INFO - Expected button text: 'تغيير إلى الإنجليزية'
+2025-05-03 00:04:21,850 - SalesSystem - INFO - After retranslate lang button text: 'Switch to English'
+2025-05-03 00:04:21,850 - SalesSystem - INFO - Number of registered callbacks: 3
+2025-05-03 00:04:21,850 - SalesSystem - INFO - Language changed to ar
+2025-05-03 00:05:18,810 - SalesSystem - INFO - Toggling language from ar to en
+2025-05-03 00:05:18,815 - SalesSystem - INFO - Test translation of 'Sales Management System': 'Sales Management System'
+2025-05-03 00:05:18,815 - SalesSystem - INFO - Current lang button text: 'Switch to Arabic'
+2025-05-03 00:05:18,816 - SalesSystem - INFO - Expected button text: 'Switch to Arabic'
+2025-05-03 00:05:18,816 - SalesSystem - INFO - After retranslate lang button text: 'Switch to Arabic'
+2025-05-03 00:05:18,816 - SalesSystem - INFO - Number of registered callbacks: 3
+2025-05-03 00:05:18,816 - SalesSystem - INFO - Language changed to en
+2025-05-03 00:12:55,594 - SalesSystem - INFO - User logged in: Gehad
+2025-05-03 00:15:02,267 - SalesSystem - INFO - User logged in: Gehad
+2025-05-03 00:15:03,903 - SalesSystem - INFO - Toggling language from en to ar
+2025-05-03 00:15:03,933 - SalesSystem - INFO - Test translation of 'Sales Management System': 'Sales Management System'
+2025-05-03 00:15:03,933 - SalesSystem - INFO - Current lang button text: 'Switch to English'
+2025-05-03 00:15:03,934 - SalesSystem - INFO - Expected button text: 'تغيير إلى الإنجليزية'
+2025-05-03 00:15:03,934 - SalesSystem - INFO - After retranslate lang button text: 'Switch to English'
+2025-05-03 00:15:03,934 - SalesSystem - INFO - Number of registered callbacks: 4
+2025-05-03 00:15:03,934 - SalesSystem - INFO - Language changed to ar
+2025-05-03 00:15:06,929 - SalesSystem - INFO - Toggling language from ar to en
+2025-05-03 00:15:06,935 - SalesSystem - INFO - Test translation of 'Sales Management System': 'Sales Management System'
+2025-05-03 00:15:06,935 - SalesSystem - INFO - Current lang button text: 'Switch to Arabic'
+2025-05-03 00:15:06,935 - SalesSystem - INFO - Expected button text: 'Switch to Arabic'
+2025-05-03 00:15:06,936 - SalesSystem - INFO - After retranslate lang button text: 'Switch to Arabic'
+2025-05-03 00:15:06,936 - SalesSystem - INFO - Number of registered callbacks: 4
+2025-05-03 00:15:06,936 - SalesSystem - INFO - Language changed to en
+2025-05-03 00:15:19,348 - SalesSystem - INFO - Toggling language from en to ar
+2025-05-03 00:15:19,355 - SalesSystem - INFO - Test translation of 'Sales Management System': 'Sales Management System'
+2025-05-03 00:15:19,356 - SalesSystem - INFO - Current lang button text: 'Switch to English'
+2025-05-03 00:15:19,356 - SalesSystem - INFO - Expected button text: 'تغيير إلى الإنجليزية'
+2025-05-03 00:15:19,356 - SalesSystem - INFO - After retranslate lang button text: 'Switch to English'
+2025-05-03 00:15:19,356 - SalesSystem - INFO - Number of registered callbacks: 4
+2025-05-03 00:15:19,356 - SalesSystem - INFO - Language changed to ar
+2025-05-03 00:15:37,148 - SalesSystem - INFO - Toggling language from ar to en
+2025-05-03 00:15:37,154 - SalesSystem - INFO - Test translation of 'Sales Management System': 'Sales Management System'
+2025-05-03 00:15:37,155 - SalesSystem - INFO - Current lang button text: 'Switch to Arabic'
+2025-05-03 00:15:37,155 - SalesSystem - INFO - Expected button text: 'Switch to Arabic'
+2025-05-03 00:15:37,155 - SalesSystem - INFO - After retranslate lang button text: 'Switch to Arabic'
+2025-05-03 00:15:37,155 - SalesSystem - INFO - Number of registered callbacks: 4
+2025-05-03 00:15:37,156 - SalesSystem - INFO - Language changed to en
+2025-05-03 00:15:47,123 - SalesSystem - INFO - Toggling language from en to ar
+2025-05-03 00:15:47,131 - SalesSystem - INFO - Test translation of 'Sales Management System': 'Sales Management System'
+2025-05-03 00:15:47,131 - SalesSystem - INFO - Current lang button text: 'Switch to English'
+2025-05-03 00:15:47,131 - SalesSystem - INFO - Expected button text: 'تغيير إلى الإنجليزية'
+2025-05-03 00:15:47,131 - SalesSystem - INFO - After retranslate lang button text: 'Switch to English'
+2025-05-03 00:15:47,131 - SalesSystem - INFO - Number of registered callbacks: 4
+2025-05-03 00:15:47,132 - SalesSystem - INFO - Language changed to ar
+2025-05-03 00:19:46,503 - SalesSystem - INFO - User logged in: Gehad
+2025-05-03 00:24:21,160 - SalesSystem - INFO - User logged in: Gehad
+2025-05-03 00:25:03,748 - SalesSystem - INFO - User 1: Searched products: All / '' - Found 3 results
+2025-05-03 00:25:12,162 - SalesSystem - INFO - User 1: Error checking stock for product 3: no such column: p.MinStock
+2025-05-03 00:25:14,228 - SalesSystem - INFO - User 1: Error checking stock for product 2: no such column: p.MinStock
+2025-05-03 00:31:49,336 - SalesSystem - INFO - User logged in: Gehad
+2025-05-03 00:33:34,871 - SalesSystem - INFO - User logged in: Gehad
+2025-05-03 00:34:36,291 - SalesSystem - INFO - User 1: Searched products: All / '' - Found 3 results
+2025-05-03 00:34:37,415 - SalesSystem - INFO - User 1: Added TANGO (ID: 3) to cart
+2025-05-03 00:34:47,218 - SalesSystem - INFO - User 1: Error during sale: Could not complete sale: table Invoices has no column named CustomerName
+2025-05-03 00:34:56,945 - SalesSystem - INFO - User 1: Increased quantity of TANGO (ID: 3) to 2 in cart
+2025-05-03 00:35:01,087 - SalesSystem - INFO - User 1: Removed TANGO (ID: 3) from cart
+2025-05-03 00:38:40,348 - SalesSystem - INFO - User logged in: Gehad
+2025-05-03 00:48:12,352 - SalesSystem - INFO - Initializing database...
+2025-05-03 00:48:12,543 - SalesSystem - INFO - Database optimization completed successfully in 0.04 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-05-03 00:48:27,451 - SalesSystem - INFO - User logged in: Gehad
+2025-05-03 00:48:49,440 - SalesSystem - INFO - Application closing...
+2025-05-03 00:48:50,478 - SalesSystem - INFO - Final database connection stats: active=0, peak=1, total created=25, total returned=21
+2025-05-14 00:09:05,866 - SalesSystem - INFO - Initializing database...
+2025-05-14 00:09:06,035 - SalesSystem - INFO - Database optimization completed successfully in 0.02 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-05-14 00:09:13,306 - SalesSystem - INFO - User logged in: Gehad
+2025-05-14 00:12:53,964 - SalesSystem - INFO - Initializing database...
+2025-05-14 00:12:54,152 - SalesSystem - INFO - Database optimization completed successfully in 0.02 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-05-14 00:13:02,530 - SalesSystem - INFO - User logged in: Gehad
+2025-05-14 00:16:44,159 - SalesSystem - INFO - Initializing database...
+2025-05-14 00:16:44,354 - SalesSystem - INFO - Database optimization completed successfully in 0.02 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-05-14 00:16:52,970 - SalesSystem - INFO - User logged in: Gehad
+2025-05-14 00:21:42,438 - SalesSystem - INFO - Initializing database...
+2025-05-14 00:21:42,633 - SalesSystem - INFO - Database optimization completed successfully in 0.02 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-05-14 00:21:50,865 - SalesSystem - INFO - User logged in: Gehad
+2025-05-14 00:21:50,866 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-05-14 00:21:50,871 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-05-14 00:21:50,871 - SalesSystem - INFO - Initializing page: InventoryPage
+2025-05-14 00:21:50,906 - SalesSystem - INFO - Successfully initialized page: InventoryPage
+2025-05-14 00:21:50,907 - SalesSystem - INFO - Initializing page: SalesPage
+2025-05-14 00:21:50,921 - SalesSystem - INFO - Successfully initialized page: SalesPage
+2025-05-14 00:21:50,922 - SalesSystem - INFO - Initializing page: DebitsPage
+2025-05-14 00:21:50,934 - SalesSystem - INFO - Successfully initialized page: DebitsPage
+2025-05-14 00:22:26,185 - SalesSystem - INFO - User 1: Searched products: All / '' - Found 3 results
+2025-05-14 00:22:28,324 - SalesSystem - INFO - User 1: Added TANGO (ID: 3) to cart
+2025-05-14 00:22:40,359 - SalesSystem - INFO - User 1: Error during sale: Could not complete sale: table Invoices has no column named ShiftUserID
+2025-05-16 00:02:17,049 - SalesSystem - INFO - Initializing database...
+2025-05-16 00:02:17,284 - SalesSystem - INFO - Database optimization completed successfully in 0.03 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-05-16 00:04:45,595 - SalesSystem - INFO - User logged in: Gehad
+2025-05-16 00:04:45,600 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-05-16 00:04:45,617 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-05-16 00:04:45,618 - SalesSystem - INFO - Initializing page: InventoryPage
+2025-05-16 00:04:45,700 - SalesSystem - INFO - Successfully initialized page: InventoryPage
+2025-05-16 00:04:45,701 - SalesSystem - INFO - Initializing page: SalesPage
+2025-05-16 00:04:45,725 - SalesSystem - INFO - Successfully initialized page: SalesPage
+2025-05-16 00:04:45,726 - SalesSystem - INFO - Initializing page: DebitsPage
+2025-05-16 00:04:45,746 - SalesSystem - INFO - Successfully initialized page: DebitsPage
+2025-05-16 00:05:55,454 - SalesSystem - INFO - User 1: Searched products: All / '' - Found 3 results
+2025-05-16 00:05:57,392 - SalesSystem - INFO - User 1: Added joody (ID: 2) to cart
+2025-05-16 00:06:25,692 - SalesSystem - INFO - User 1: Cleared shopping cart
+2025-05-25 17:01:53,331 - SalesSystem - INFO - Initializing database...
+2025-05-25 17:01:53,505 - SalesSystem - INFO - Database optimization completed successfully in 0.02 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-05-25 17:01:59,288 - SalesSystem - INFO - User logged in: Gehad
+2025-05-25 17:01:59,290 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-05-25 17:01:59,329 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-05-25 17:01:59,330 - SalesSystem - INFO - Initializing page: InventoryPage
+2025-05-25 17:01:59,392 - SalesSystem - INFO - Successfully initialized page: InventoryPage
+2025-05-25 17:01:59,393 - SalesSystem - INFO - Initializing page: SalesPage
+2025-05-25 17:01:59,424 - SalesSystem - INFO - Successfully initialized page: SalesPage
+2025-05-25 17:01:59,425 - SalesSystem - INFO - Initializing page: DebitsPage
+2025-05-25 17:01:59,448 - SalesSystem - INFO - Successfully initialized page: DebitsPage
+2025-05-25 17:02:18,224 - SalesSystem - INFO - User 1: Searched products: All / '' - Found 3 results
+2025-05-25 17:02:24,222 - SalesSystem - INFO - User 1: Added TANGO (ID: 3) to cart
+2025-05-25 17:02:42,130 - SalesSystem - INFO - User 1: Increased quantity of TANGO (ID: 3) to 2 in cart
+2025-05-25 17:02:43,143 - SalesSystem - INFO - User 1: Increased quantity of TANGO (ID: 3) to 3 in cart
+2025-05-25 17:02:45,143 - SalesSystem - INFO - User 1: Increased quantity of TANGO (ID: 3) to 4 in cart
+2025-05-25 17:02:55,181 - SalesSystem - INFO - User 1: Cleared shopping cart
+2025-05-26 23:43:37,842 - SalesSystem - INFO - Initializing database...
+2025-05-26 23:43:38,026 - SalesSystem - INFO - Database optimization completed successfully in 0.02 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-05-26 23:43:50,133 - SalesSystem - INFO - User logged in: Gehad
+2025-05-26 23:43:50,135 - SalesSystem - INFO - Using enhanced pages for better performance
+2025-05-26 23:43:50,136 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-05-26 23:43:50,204 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-05-26 23:43:50,205 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-05-26 23:43:50,206 - SalesSystem - ERROR - Error initializing page EnhancedInventoryPage: name 'MSG_INVENTORY_MANAGEMENT' is not defined
+2025-05-26 23:44:20,177 - SalesSystem - ERROR - Error in test 'Load Products (Small)': get_products() got an unexpected keyword argument 'limit'
+2025-05-26 23:44:26,307 - SalesSystem - ERROR - Error in test 'Load Products (Small)': get_products() got an unexpected keyword argument 'limit'
+2025-05-26 23:44:27,626 - SalesSystem - ERROR - Error in test 'Load Products (Small)': get_products() got an unexpected keyword argument 'limit'
+2025-05-26 23:44:27,854 - SalesSystem - ERROR - Error in test 'Load Products (Small)': get_products() got an unexpected keyword argument 'limit'
+2025-05-26 23:44:32,131 - SalesSystem - ERROR - Error in test 'Product Search': cannot import name 'search_products' from 'modules.data_access' (C:\Users\User\Desktop\sale-system - V30\modules\data_access.py)
+2025-05-26 23:44:37,965 - SalesSystem - INFO - Performance report: Processed 2 tasks in the last minute, average processing time: 0.16ms
+2025-05-26 23:45:47,572 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-05-26 23:45:47,589 - SalesSystem - ERROR - Error initializing page EnhancedSalesPage: FastSearchEntry.__init__() got an unexpected keyword argument 'textvariable'
+2025-05-26 23:45:48,870 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-05-26 23:45:48,876 - SalesSystem - ERROR - Error initializing page EnhancedDebitsPage: FastSearchEntry.__init__() got an unexpected keyword argument 'textvariable'
+2025-05-26 23:45:49,627 - SalesSystem - INFO - Page transition to MainMenuPage completed in 26.45ms
+2025-05-26 23:51:24,862 - SalesSystem - INFO - Initializing database...
+2025-05-26 23:51:25,053 - SalesSystem - INFO - Database optimization completed successfully in 0.03 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-05-26 23:51:34,453 - SalesSystem - INFO - User logged in: Gehad
+2025-05-26 23:51:34,456 - SalesSystem - INFO - Using enhanced pages for better performance
+2025-05-26 23:51:34,456 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-05-26 23:51:34,472 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-05-26 23:51:34,473 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-05-26 23:51:34,539 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-05-26 23:51:34,539 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-05-26 23:51:34,543 - SalesSystem - ERROR - Error initializing page EnhancedSalesPage: FastSearchEntry.__init__() got an unexpected keyword argument 'textvariable'
+2025-05-26 23:52:12,345 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-05-26 23:52:12,356 - SalesSystem - ERROR - Error initializing page EnhancedDebitsPage: FastSearchEntry.__init__() got an unexpected keyword argument 'textvariable'
+2025-05-26 23:52:14,419 - SalesSystem - INFO - Page transition to MainMenuPage completed in 11.07ms
+2025-05-26 23:52:17,369 - SalesSystem - INFO - Page transition to MainMenuPage completed in 6.88ms
+2025-05-26 23:52:24,955 - SalesSystem - INFO - Performance report: Processed 2 tasks in the last minute, average processing time: 0.13ms
+2025-05-26 23:56:53,445 - SalesSystem - ERROR - Attempted to show non-existent frame: DebitsPage
+2025-05-26 23:56:56,480 - SalesSystem - INFO - Page transition to InventoryPage completed in 2.86ms
+2025-05-26 23:57:30,520 - SalesSystem - INFO - Application closing...
+2025-05-26 23:57:31,698 - SalesSystem - INFO - Final database connection stats: active=0, peak=2, total created=21, total returned=12
+2025-05-26 23:57:31,979 - SalesSystem - INFO - Final shutdown, application terminating
+2025-05-27 00:13:14,221 - SalesSystem - INFO - Initializing database...
+2025-05-27 00:13:14,417 - SalesSystem - INFO - Database optimization completed successfully in 0.02 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-05-27 00:13:22,429 - SalesSystem - INFO - User logged in: Gehad
+2025-05-27 00:13:22,431 - SalesSystem - INFO - Using enhanced pages for better performance
+2025-05-27 00:13:22,431 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-05-27 00:13:22,437 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-05-27 00:13:22,437 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-05-27 00:13:22,460 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-05-27 00:13:22,460 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-05-27 00:13:22,463 - SalesSystem - ERROR - Error initializing page EnhancedSalesPage: PaginatedListView.__init__() got an unexpected keyword argument 'headers'
+2025-05-27 00:13:33,926 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-05-27 00:13:33,934 - SalesSystem - ERROR - Error initializing page EnhancedDebitsPage: PaginatedListView.__init__() got an unexpected keyword argument 'headers'
+2025-05-27 00:13:35,432 - SalesSystem - INFO - Page transition to MainMenuPage completed in 6.58ms
+2025-05-27 00:13:36,845 - SalesSystem - ERROR - Attempted to show non-existent frame: SalesPage
+2025-05-27 00:13:42,170 - SalesSystem - ERROR - Attempted to show non-existent frame: DebitsPage
+2025-05-27 00:13:43,513 - SalesSystem - INFO - Page transition to InventoryPage completed in 1.32ms
+2025-05-27 00:14:14,323 - SalesSystem - INFO - Performance report: Processed 3 tasks in the last minute, average processing time: 0.09ms
+2025-05-27 00:18:59,912 - SalesSystem - INFO - Application closing...
+2025-05-27 00:19:02,409 - SalesSystem - INFO - Final database connection stats: active=0, peak=2, total created=21, total returned=14
+2025-05-27 00:19:02,873 - SalesSystem - INFO - Final shutdown, application terminating
+2025-05-27 01:10:57,418 - SalesSystem - INFO - Initializing database...
+2025-05-27 01:11:54,237 - SalesSystem - INFO - Initializing database...
+2025-05-27 01:12:35,539 - SalesSystem - INFO - Initializing database...
+2025-05-27 01:12:35,737 - SalesSystem - INFO - Database optimization completed successfully in 0.03 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-05-27 01:12:48,867 - SalesSystem - INFO - User logged in: Gehad
+2025-05-27 01:12:48,868 - SalesSystem - INFO - Using enhanced pages for better performance
+2025-05-27 01:12:48,868 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-05-27 01:12:48,873 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-05-27 01:12:48,873 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-05-27 01:12:48,894 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-05-27 01:12:48,895 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-05-27 01:12:48,903 - SalesSystem - ERROR - Error initializing page EnhancedSalesPage: unknown option "-textvariable"
+2025-05-27 01:12:51,786 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-05-27 01:12:51,798 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-05-27 01:12:51,804 - SalesSystem - INFO - Page transition to MainMenuPage completed in 5.52ms
+2025-05-27 01:12:52,581 - SalesSystem - ERROR - Attempted to show non-existent frame: SalesPage
+2025-05-27 01:12:55,866 - SalesSystem - INFO - Preparing enhanced page DebitsPage for display
+2025-05-27 01:12:55,866 - SalesSystem - ERROR - Error showing frame DebitsPage: ProgressDialog.__init__() got an unexpected keyword argument 'message'
+2025-05-27 01:12:57,329 - SalesSystem - INFO - Page transition to InventoryPage completed in 1.43ms
+2025-05-27 01:12:58,547 - SalesSystem - INFO - Page transition to MainMenuPage completed in 6.55ms
+2025-05-27 01:13:35,681 - SalesSystem - INFO - Performance report: Processed 3 tasks in the last minute, average processing time: 0.11ms
+2025-05-27 01:20:41,680 - SalesSystem - INFO - Initializing database...
+2025-05-27 01:21:55,606 - SalesSystem - INFO - Initializing database...
+2025-05-27 01:21:55,799 - SalesSystem - INFO - Database optimization completed successfully in 0.02 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-05-27 01:22:04,239 - SalesSystem - INFO - User logged in: Gehad
+2025-05-27 01:22:04,240 - SalesSystem - INFO - Using enhanced pages for better performance
+2025-05-27 01:22:04,240 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-05-27 01:22:04,245 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-05-27 01:22:04,245 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-05-27 01:22:04,268 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-05-27 01:22:04,268 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-05-27 01:22:04,279 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-05-27 01:22:04,280 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-05-27 01:22:04,293 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-05-27 01:22:04,299 - SalesSystem - INFO - Page transition to MainMenuPage completed in 5.10ms
+2025-05-27 01:22:05,710 - SalesSystem - INFO - Preparing enhanced page SalesPage for display
+2025-05-27 01:22:05,710 - SalesSystem - ERROR - Error showing frame SalesPage: ProgressDialog.__init__() got an unexpected keyword argument 'message'
+2025-05-27 01:22:11,776 - SalesSystem - INFO - Preparing enhanced page DebitsPage for display
+2025-05-27 01:22:11,778 - SalesSystem - ERROR - Error showing frame DebitsPage: EnhancedDataAccess.get_debits_paged() got an unexpected keyword argument 'on_success'
+2025-05-27 01:22:55,715 - SalesSystem - INFO - Performance report: Processed 2 tasks in the last minute, average processing time: 0.08ms
+2025-05-27 01:27:03,387 - SalesSystem - INFO - Initializing database...
+2025-05-27 01:28:42,040 - SalesSystem - INFO - Initializing database...
+2025-05-27 01:39:12,662 - SalesSystem - INFO - Initializing database...
+2025-05-27 01:40:21,225 - SalesSystem - INFO - Initializing database...
+2025-05-27 01:41:47,497 - SalesSystem - INFO - Initializing database...
+2025-05-27 01:42:30,935 - SalesSystem - INFO - Initializing database...
+2025-05-27 01:42:31,139 - SalesSystem - INFO - Database optimization completed successfully in 0.02 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-05-27 01:42:36,993 - SalesSystem - INFO - User logged in: Gehad
+2025-05-27 01:42:36,995 - SalesSystem - INFO - Using enhanced pages for better performance
+2025-05-27 01:42:36,995 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-05-27 01:42:37,000 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-05-27 01:42:37,000 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-05-27 01:42:37,020 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-05-27 01:42:37,021 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-05-27 01:42:37,031 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-05-27 01:42:37,031 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-05-27 01:42:37,044 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-05-27 01:42:37,049 - SalesSystem - INFO - Page transition to MainMenuPage completed in 5.02ms
+2025-05-27 01:42:37,796 - SalesSystem - INFO - Preparing enhanced page SalesPage for display
+2025-05-27 01:42:37,799 - SalesSystem - ERROR - Error showing frame SalesPage: EnhancedDataAccess.get_products_paged() got an unexpected keyword argument 'search_term'
+2025-05-29 01:30:15,111 - SalesSystem - INFO - Initializing database...
+2025-05-29 01:30:15,291 - SalesSystem - INFO - Database optimization completed successfully in 0.02 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-05-29 01:30:23,048 - SalesSystem - INFO - User logged in: Gehad
+2025-05-29 01:30:23,050 - SalesSystem - INFO - Using enhanced pages for better performance
+2025-05-29 01:30:23,050 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-05-29 01:30:23,059 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-05-29 01:30:23,059 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-05-29 01:30:23,091 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-05-29 01:30:23,091 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-05-29 01:30:23,101 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-05-29 01:30:23,101 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-05-29 01:30:23,113 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-05-29 01:30:23,122 - SalesSystem - INFO - Page transition to MainMenuPage completed in 8.27ms
+2025-05-29 01:30:24,153 - SalesSystem - INFO - Page transition to InventoryPage completed in 1.38ms
+2025-05-29 01:30:25,454 - SalesSystem - INFO - Page transition to MainMenuPage completed in 7.42ms
+2025-05-29 01:30:25,782 - SalesSystem - INFO - Preparing enhanced page SalesPage for display
+2025-05-29 01:30:25,784 - SalesSystem - ERROR - Error showing frame SalesPage: EnhancedDataAccess.get_products_paged() got an unexpected keyword argument 'search_term'
+2025-05-29 01:42:34,032 - SalesSystem - INFO - Initializing database...
+2025-05-29 01:42:34,232 - SalesSystem - INFO - Database optimization completed successfully in 0.02 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-05-29 01:43:22,249 - SalesSystem - INFO - Initializing database...
+2025-05-29 01:43:22,436 - SalesSystem - INFO - Database optimization completed successfully in 0.02 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-05-29 01:43:28,296 - SalesSystem - INFO - User logged in: Gehad
+2025-05-29 01:43:28,297 - SalesSystem - INFO - Using enhanced pages for better performance
+2025-05-29 01:43:28,297 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-05-29 01:43:28,303 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-05-29 01:43:28,303 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-05-29 01:43:28,324 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-05-29 01:43:28,324 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-05-29 01:43:28,337 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-05-29 01:43:28,337 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-05-29 01:43:28,352 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-05-29 01:43:28,359 - SalesSystem - INFO - Page transition to MainMenuPage completed in 6.48ms
+2025-05-29 01:43:28,989 - SalesSystem - INFO - Preparing enhanced page SalesPage for display
+2025-05-29 01:43:28,991 - SalesSystem - ERROR - Error showing frame SalesPage: EnhancedDataAccess.get_products_paged() got an unexpected keyword argument 'on_success'
+2025-05-29 01:51:03,857 - SalesSystem - INFO - Initializing database...
+2025-05-29 01:51:04,049 - SalesSystem - INFO - Database optimization completed successfully in 0.02 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-05-29 01:55:54,797 - SalesSystem - INFO - Initializing database...
+2025-05-29 01:55:54,994 - SalesSystem - INFO - Database optimization completed successfully in 0.02 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-05-29 01:56:55,002 - SalesSystem - INFO - Performance report: Processed 2 tasks in the last minute, average processing time: 0.08ms
+2025-05-29 02:05:14,130 - SalesSystem - INFO - User logged in: Gehad
+2025-05-29 02:05:14,132 - SalesSystem - INFO - Using enhanced pages for better performance
+2025-05-29 02:05:14,132 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-05-29 02:05:14,140 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-05-29 02:05:14,141 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-05-29 02:05:14,163 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-05-29 02:05:14,163 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-05-29 02:05:14,175 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-05-29 02:05:14,176 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-05-29 02:05:14,187 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-05-29 02:05:14,193 - SalesSystem - INFO - Page transition to MainMenuPage completed in 5.25ms
+2025-05-29 02:05:14,644 - SalesSystem - INFO - Preparing enhanced page SalesPage for display
+2025-05-29 02:05:14,648 - SalesSystem - ERROR - Error showing frame SalesPage: 'PaginatedListView' object has no attribute 'update_headers'
+2025-05-29 02:05:19,352 - SalesSystem - INFO - Preparing enhanced page DebitsPage for display
+2025-05-29 02:05:19,356 - SalesSystem - ERROR - Error showing frame DebitsPage: 'PaginatedListView' object has no attribute 'update_headers'
+2025-05-29 02:05:22,595 - SalesSystem - INFO - Page transition to InventoryPage completed in 1.76ms
+2025-05-29 02:05:23,756 - SalesSystem - INFO - Page transition to MainMenuPage completed in 6.22ms
+2025-05-29 02:05:24,675 - SalesSystem - INFO - Page transition to InventoryPage completed in 1.28ms
+2025-05-29 02:05:26,643 - SalesSystem - INFO - Page transition to MainMenuPage completed in 5.61ms
+2025-05-29 02:05:27,121 - SalesSystem - INFO - Performance report: Processed 1 tasks in the last minute, average processing time: 0.06ms
+2025-05-29 02:05:35,486 - SalesSystem - INFO - Initializing database...
+2025-05-29 02:05:35,582 - SalesSystem - ERROR - Database initialization error: 'charmap' codec can't encode character '\u2713' in position 0: character maps to <undefined>
+2025-05-29 02:06:09,713 - SalesSystem - INFO - Initializing database...
+2025-05-29 02:06:09,921 - SalesSystem - INFO - Database optimization completed successfully in 0.02 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-05-29 02:06:16,135 - SalesSystem - INFO - User logged in: Gehad
+2025-05-29 02:06:16,136 - SalesSystem - INFO - Using enhanced pages for better performance
+2025-05-29 02:06:16,137 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-05-29 02:06:16,142 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-05-29 02:06:16,142 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-05-29 02:06:16,162 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-05-29 02:06:16,162 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-05-29 02:06:16,173 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-05-29 02:06:16,173 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-05-29 02:06:16,185 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-05-29 02:06:16,191 - SalesSystem - INFO - Page transition to MainMenuPage completed in 5.78ms
+2025-05-29 02:06:16,781 - SalesSystem - INFO - Preparing enhanced page SalesPage for display
+2025-05-29 02:06:16,785 - SalesSystem - ERROR - Error showing frame SalesPage: 'PaginatedListView' object has no attribute 'update_headers'
+2025-05-29 02:06:18,560 - SalesSystem - INFO - Preparing enhanced page DebitsPage for display
+2025-05-29 02:06:18,564 - SalesSystem - ERROR - Error showing frame DebitsPage: 'PaginatedListView' object has no attribute 'update_headers'
+2025-05-29 02:31:07,034 - SalesSystem - INFO - Initializing database...
+2025-05-29 02:40:28,177 - SalesSystem - INFO - Initializing database...
+2025-05-29 02:40:28,364 - SalesSystem - INFO - Database optimization completed successfully in 0.02 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-05-29 02:40:35,620 - SalesSystem - INFO - User logged in: Gehad
+2025-05-29 02:40:35,621 - SalesSystem - INFO - Using enhanced pages for better performance
+2025-05-29 02:40:35,622 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-05-29 02:40:35,658 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-05-29 02:40:35,659 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-05-29 02:40:35,701 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-05-29 02:40:35,701 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-05-29 02:40:35,712 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-05-29 02:40:35,712 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-05-29 02:40:35,725 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-05-29 02:40:35,737 - SalesSystem - INFO - Page transition to MainMenuPage completed in 11.65ms
+2025-05-29 02:40:36,848 - SalesSystem - INFO - Preparing enhanced page SalesPage for display
+2025-05-29 02:40:36,856 - SalesSystem - INFO - Page transition to SalesPage completed in 7.81ms
+2025-05-29 02:40:39,188 - SalesSystem - INFO - Page transition to MainMenuPage completed in 6.00ms
+2025-05-29 02:40:39,851 - SalesSystem - INFO - Page transition to InventoryPage completed in 1.88ms
+2025-05-29 02:40:41,154 - SalesSystem - INFO - Page transition to MainMenuPage completed in 6.87ms
+2025-05-29 02:40:42,660 - SalesSystem - INFO - Preparing enhanced page DebitsPage for display
+2025-05-29 02:40:42,663 - SalesSystem - ERROR - Error showing frame DebitsPage: 'EnhancedDebitsPage' object has no attribute 'total_debits'
+2025-05-29 02:40:48,209 - SalesSystem - INFO - Page transition to MainMenuPage completed in 5.21ms
+2025-05-29 02:41:00,331 - SalesSystem - INFO - Preparing enhanced page SalesPage for display
+2025-05-29 02:41:00,338 - SalesSystem - INFO - Page transition to SalesPage completed in 6.67ms
+2025-05-29 02:41:08,600 - SalesSystem - INFO - Page transition to MainMenuPage completed in 7.86ms
+2025-05-29 03:29:18,653 - SalesSystem - INFO - Initializing database...
+2025-05-29 03:29:18,852 - SalesSystem - INFO - Database optimization completed successfully in 0.02 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-05-29 03:29:25,449 - SalesSystem - INFO - User logged in: Gehad
+2025-05-29 03:29:25,451 - SalesSystem - INFO - Using enhanced pages for better performance
+2025-05-29 03:29:25,451 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-05-29 03:29:25,461 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-05-29 03:29:25,461 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-05-29 03:29:26,198 - SalesSystem - ERROR - Error initializing page EnhancedInventoryPage: FastSearchEntry.__init__() got an unexpected keyword argument 'placeholder'
+2025-05-29 03:29:28,738 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-05-29 03:29:28,744 - SalesSystem - ERROR - Error initializing page EnhancedSalesPage: 'EnhancedSalesPage' object has no attribute '_on_product_selected_from_search'
+2025-05-29 03:29:29,384 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-05-29 03:29:29,414 - SalesSystem - ERROR - Error initializing page EnhancedDebitsPage: FastSearchEntry.__init__() got an unexpected keyword argument 'placeholder'
+2025-05-29 03:29:30,390 - SalesSystem - INFO - Page transition to MainMenuPage completed in 20.66ms
+2025-05-29 03:29:30,945 - SalesSystem - ERROR - Attempted to show non-existent frame: SalesPage
+2025-05-29 03:29:32,289 - SalesSystem - ERROR - Attempted to show non-existent frame: SalesPage
+2025-05-29 03:29:35,822 - SalesSystem - ERROR - Attempted to show non-existent frame: InventoryPage
+2025-05-29 03:29:45,230 - SalesSystem - ERROR - Attempted to show non-existent frame: InventoryPage
+2025-05-29 03:29:46,875 - SalesSystem - ERROR - Attempted to show non-existent frame: DebitsPage
+2025-05-29 03:30:18,800 - SalesSystem - INFO - Performance report: Processed 3 tasks in the last minute, average processing time: 0.08ms
+2025-05-29 03:40:44,029 - SalesSystem - INFO - Initializing database...
+2025-05-29 03:43:34,946 - SalesSystem - INFO - Initializing database...
+2025-05-29 03:44:01,154 - SalesSystem - INFO - Initializing database...
+2025-05-29 03:44:01,359 - SalesSystem - INFO - Database optimization completed successfully in 0.02 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-05-29 03:44:08,774 - SalesSystem - INFO - User logged in: Gehad
+2025-05-29 03:44:08,775 - SalesSystem - INFO - Using enhanced pages for better performance
+2025-05-29 03:44:08,775 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-05-29 03:44:08,804 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-05-29 03:44:08,804 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-05-29 03:44:09,251 - SalesSystem - ERROR - Error initializing page EnhancedInventoryPage: type object 'StyleBuilderTTK' has no attribute 'create_outline_radiobutton_style'
+2025-05-29 03:44:09,252 - SalesSystem - INFO - Attempting fallback to standard InventoryPage
+2025-05-29 03:44:09,252 - SalesSystem - INFO - Loading fallback page: InventoryPage
+2025-05-29 03:44:09,315 - SalesSystem - INFO - Successfully loaded fallback page: InventoryPage
+2025-05-29 03:44:09,315 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-05-29 03:44:09,324 - SalesSystem - ERROR - Error initializing page EnhancedSalesPage: 'EnhancedSalesPage' object has no attribute '_change_view_mode'
+2025-05-29 03:44:09,324 - SalesSystem - INFO - Attempting fallback to standard SalesPage
+2025-05-29 03:44:09,324 - SalesSystem - INFO - Loading fallback page: SalesPage
+2025-05-29 03:44:09,360 - SalesSystem - INFO - Successfully loaded fallback page: SalesPage
+2025-05-29 03:44:09,361 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-05-29 03:44:09,397 - SalesSystem - ERROR - Error initializing page EnhancedDebitsPage: type object 'StyleBuilderTTK' has no attribute 'create_outline_radiobutton_style'
+2025-05-29 03:44:09,398 - SalesSystem - INFO - Attempting fallback to standard DebitsPage
+2025-05-29 03:44:09,398 - SalesSystem - INFO - Loading fallback page: DebitsPage
+2025-05-29 03:44:09,422 - SalesSystem - INFO - Successfully loaded fallback page: DebitsPage
+2025-05-29 03:44:09,434 - SalesSystem - INFO - Page transition to MainMenuPage completed in 11.00ms
+2025-05-29 03:44:10,775 - SalesSystem - INFO - Page transition to SalesPage completed in 24.16ms
+2025-05-29 03:44:16,266 - SalesSystem - INFO - Page transition to MainMenuPage completed in 7.23ms
+2025-05-29 03:44:17,003 - SalesSystem - INFO - Page transition to MainMenuPage completed in 4.91ms
+2025-05-29 03:44:17,848 - SalesSystem - INFO - Page transition to SalesPage completed in 20.79ms
+2025-05-29 03:44:24,882 - SalesSystem - INFO - User 1: Searched products: All / '' - Found 3 results
+2025-05-29 03:44:26,562 - SalesSystem - INFO - User 1: Added joody (ID: 2) to cart
+2025-05-29 03:44:27,431 - SalesSystem - INFO - Page transition to MainMenuPage completed in 7.37ms
+2025-05-29 03:44:27,962 - SalesSystem - INFO - Page transition to InventoryPage completed in 1.95ms
+2025-05-29 03:44:38,836 - SalesSystem - INFO - Page transition to MainMenuPage completed in 6.60ms
+2025-05-29 03:44:39,626 - SalesSystem - INFO - Page transition to DebitsPage completed in 1.66ms
+2025-05-29 03:44:45,076 - SalesSystem - INFO - Page transition to MainMenuPage completed in 6.71ms
+2025-07-17 01:11:11,311 - SalesSystem - INFO - Initializing database...
+2025-07-17 01:11:11,470 - SalesSystem - INFO - Database optimization completed successfully in 0.03 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-07-17 01:11:34,367 - SalesSystem - INFO - User logged in: Gehad
+2025-07-17 01:11:34,370 - SalesSystem - INFO - Using enhanced pages for better performance
+2025-07-17 01:11:34,370 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-07-17 01:11:34,381 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-07-17 01:11:34,382 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-07-17 01:11:35,207 - SalesSystem - ERROR - Error initializing page EnhancedInventoryPage: type object 'StyleBuilderTTK' has no attribute 'create_outline_radiobutton_style'
+2025-07-17 01:11:35,207 - SalesSystem - INFO - Attempting fallback to standard InventoryPage
+2025-07-17 01:11:35,208 - SalesSystem - INFO - Loading fallback page: InventoryPage
+2025-07-17 01:11:35,264 - SalesSystem - INFO - Successfully loaded fallback page: InventoryPage
+2025-07-17 01:11:35,265 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-07-17 01:11:35,277 - SalesSystem - ERROR - Error initializing page EnhancedSalesPage: 'EnhancedSalesPage' object has no attribute '_change_view_mode'
+2025-07-17 01:11:35,277 - SalesSystem - INFO - Attempting fallback to standard SalesPage
+2025-07-17 01:11:35,278 - SalesSystem - INFO - Loading fallback page: SalesPage
+2025-07-17 01:11:35,301 - SalesSystem - INFO - Successfully loaded fallback page: SalesPage
+2025-07-17 01:11:35,301 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-07-17 01:11:35,344 - SalesSystem - ERROR - Error initializing page EnhancedDebitsPage: type object 'StyleBuilderTTK' has no attribute 'create_outline_radiobutton_style'
+2025-07-17 01:11:35,344 - SalesSystem - INFO - Attempting fallback to standard DebitsPage
+2025-07-17 01:11:35,345 - SalesSystem - INFO - Loading fallback page: DebitsPage
+2025-07-17 01:11:35,363 - SalesSystem - INFO - Successfully loaded fallback page: DebitsPage
+2025-07-17 01:11:35,375 - SalesSystem - INFO - Page transition to MainMenuPage completed in 11.30ms
+2025-07-17 01:11:37,020 - SalesSystem - INFO - Page transition to InventoryPage completed in 2.55ms
+2025-07-17 01:11:50,493 - SalesSystem - INFO - Page transition to MainMenuPage completed in 5.59ms
+2025-07-17 01:11:51,179 - SalesSystem - INFO - Page transition to SalesPage completed in 18.61ms
+2025-07-17 01:11:53,258 - SalesSystem - INFO - Page transition to MainMenuPage completed in 5.01ms
+2025-07-17 01:11:57,092 - SalesSystem - INFO - Page transition to DebitsPage completed in 0.89ms
+2025-07-17 01:12:00,254 - SalesSystem - INFO - Page transition to MainMenuPage completed in 5.02ms
+2025-07-17 01:12:03,191 - SalesSystem - INFO - Application closing...
+2025-07-17 01:12:04,123 - SalesSystem - INFO - Final database connection stats: active=0, peak=1, total created=33, total returned=33
+2025-07-17 01:12:04,269 - SalesSystem - INFO - Final shutdown, application terminating
+2025-07-17 01:46:48,866 - SalesSystem - INFO - Initializing database...
+2025-07-17 01:48:24,874 - SalesSystem - INFO - Initializing database...
+2025-07-17 01:48:24,919 - SalesSystem - INFO - Test log message
+2025-07-17 02:02:10,282 - SalesSystem - ERROR - Database query error: no such column: ID
+2025-07-17 02:02:10,283 - SalesSystem - ERROR - Query: 
+                SELECT ID, Name, Price, Stock, Category, Barcode, 
+                       CASE WHEN Stock <= 10 THEN 'Low Stock' ELSE 'In Stock' END as StockStatus
+                FROM Products 
+                WHERE 1=1
+                ORDER BY Name
+                LIMIT ? OFFSET ?
+            
+2025-07-17 02:02:10,283 - SalesSystem - ERROR - Params: (5, 0)
+2025-07-17 02:02:10,283 - SalesSystem - ERROR - Error getting products: no such column: ID
+2025-07-17 02:02:10,284 - SalesSystem - ERROR - Database query error: no such column: ID
+2025-07-17 02:02:10,284 - SalesSystem - ERROR - Query: 
+                SELECT ID, Name, Price, Stock, Category, Barcode
+                FROM Products 
+                WHERE Name LIKE ? OR Barcode LIKE ?
+                ORDER BY Name
+                LIMIT ?
+            
+2025-07-17 02:02:10,284 - SalesSystem - ERROR - Params: ('%%', '%%', 3)
+2025-07-17 02:02:10,284 - SalesSystem - ERROR - Error in fast product search: no such column: ID
+2025-07-17 02:02:10,285 - SalesSystem - ERROR - Database query error: no such column: ID
+2025-07-17 02:02:10,285 - SalesSystem - ERROR - Query: 
+                SELECT ID, Name, Price, Stock, Category, Barcode
+                FROM Products 
+                WHERE Stock <= ?
+                ORDER BY Stock ASC, Name
+            
+2025-07-17 02:02:10,285 - SalesSystem - ERROR - Params: (20,)
+2025-07-17 02:02:10,285 - SalesSystem - ERROR - Error getting low stock products: no such column: ID
+2025-07-17 02:02:10,286 - SalesSystem - ERROR - Database query error: no such column: ID
+2025-07-17 02:02:10,286 - SalesSystem - ERROR - Query: 
+                SELECT ID, Name, Price, Stock, Category, Barcode, 
+                       CASE WHEN Stock <= 10 THEN 'Low Stock' ELSE 'In Stock' END as StockStatus
+                FROM Products 
+                WHERE 1=1
+                ORDER BY Name
+                LIMIT ? OFFSET ?
+            
+2025-07-17 02:02:10,286 - SalesSystem - ERROR - Params: (5, 0)
+2025-07-17 02:02:10,287 - SalesSystem - ERROR - Error getting products: no such column: ID
+2025-07-17 02:11:08,762 - SalesSystem - INFO - Connection pool initialized with 10 connections
+2025-07-17 02:11:08,764 - SalesSystem - ERROR - Database connection error: no such table: Products
+2025-07-17 02:11:08,765 - SalesSystem - ERROR - Query execution error: no such table: Products
+2025-07-17 02:11:59,401 - SalesSystem - INFO - Connection pool initialized with 10 connections
+2025-07-17 02:11:59,413 - SalesSystem - INFO - Database optimization completed
+2025-07-18 03:56:40,897 - SalesSystem - INFO - Initializing database...
+2025-07-18 03:56:41,058 - SalesSystem - INFO - Database optimization completed successfully in 0.02 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-07-18 03:56:49,855 - SalesSystem - INFO - User logged in: Gehad
+2025-07-18 03:56:49,857 - SalesSystem - INFO - Using enhanced pages for better performance
+2025-07-18 03:56:49,857 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-07-18 03:56:49,864 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-07-18 03:56:49,864 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-07-18 03:56:50,657 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-07-18 03:56:50,657 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-07-18 03:56:50,700 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-07-18 03:56:50,700 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-07-18 03:56:50,762 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-07-18 03:56:50,771 - SalesSystem - INFO - Page transition to MainMenuPage completed in 8.56ms
+2025-07-18 03:56:51,637 - SalesSystem - INFO - Preparing enhanced page SalesPage for display
+2025-07-18 03:56:51,660 - SalesSystem - INFO - Page transition to SalesPage completed in 22.55ms
+2025-07-18 03:57:14,638 - SalesSystem - INFO - Page transition to MainMenuPage completed in 5.02ms
+2025-07-18 03:57:15,315 - SalesSystem - INFO - Page transition to InventoryPage completed in 5.15ms
+2025-07-18 03:57:40,999 - SalesSystem - INFO - Performance report: Processed 2 tasks in the last minute, average processing time: 0.13ms
+2025-07-18 03:58:20,523 - SalesSystem - INFO - Page transition to MainMenuPage completed in 4.63ms
+2025-07-18 03:58:21,001 - SalesSystem - INFO - Preparing enhanced page DebitsPage for display
+2025-07-18 03:58:21,017 - SalesSystem - INFO - Page transition to DebitsPage completed in 15.85ms
+2025-07-18 03:58:49,430 - SalesSystem - ERROR - Attempted to show non-existent frame: StartPage
+2025-07-18 03:58:52,666 - SalesSystem - ERROR - Attempted to show non-existent frame: StartPage
+2025-07-18 04:01:54,165 - SalesSystem - ERROR - Attempted to show non-existent frame: StartPage
+2025-07-18 04:02:09,533 - SalesSystem - INFO - Application closing...
+2025-07-18 04:02:10,857 - SalesSystem - INFO - Final database connection stats: active=0, peak=2, total created=35, total returned=28
+2025-07-18 04:02:11,283 - SalesSystem - INFO - Final shutdown, application terminating
+2025-07-18 04:14:58,321 - SalesSystem - INFO - Initializing database...
+2025-07-18 04:14:58,523 - SalesSystem - INFO - Database optimization completed successfully in 0.02 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-07-18 04:15:06,487 - SalesSystem - INFO - User logged in: Gehad
+2025-07-18 04:15:06,488 - SalesSystem - INFO - Using enhanced pages for better performance
+2025-07-18 04:15:06,488 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-07-18 04:15:06,494 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-07-18 04:15:06,494 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-07-18 04:15:12,583 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-07-18 04:15:12,584 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-07-18 04:15:12,636 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-07-18 04:15:12,637 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-07-18 04:15:12,708 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-07-18 04:15:12,719 - SalesSystem - INFO - Page transition to MainMenuPage completed in 10.40ms
+2025-07-18 04:15:12,951 - SalesSystem - INFO - Preparing enhanced page InventoryPage for display
+2025-07-18 04:15:15,470 - SalesSystem - INFO - Page transition to InventoryPage completed in 2518.83ms
+2025-07-18 04:15:21,713 - SalesSystem - INFO - Page transition to MainMenuPage completed in 5.90ms
+2025-07-18 04:15:22,390 - SalesSystem - INFO - Preparing enhanced page InventoryPage for display
+2025-07-18 04:15:23,957 - SalesSystem - INFO - Page transition to InventoryPage completed in 1567.15ms
+2025-07-18 04:15:37,389 - SalesSystem - INFO - Page transition to MainMenuPage completed in 6.11ms
+2025-07-18 04:15:38,211 - SalesSystem - INFO - Preparing enhanced page InventoryPage for display
+2025-07-18 04:15:44,405 - SalesSystem - INFO - Page transition to InventoryPage completed in 6194.42ms
+2025-07-18 04:15:45,152 - SalesSystem - INFO - Application closing...
+2025-07-18 04:15:46,499 - SalesSystem - INFO - Final database connection stats: active=14, peak=14, total created=30, total returned=15
+2025-07-18 04:15:46,742 - SalesSystem - INFO - Final shutdown, application terminating
+2025-07-18 04:16:04,498 - SalesSystem - INFO - Initializing database...
+2025-07-18 04:16:04,687 - SalesSystem - INFO - Database optimization completed successfully in 0.02 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-07-18 04:16:11,968 - SalesSystem - INFO - User logged in: Gehad
+2025-07-18 04:16:11,969 - SalesSystem - INFO - Using enhanced pages for better performance
+2025-07-18 04:16:11,969 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-07-18 04:16:11,975 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-07-18 04:16:11,975 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-07-18 04:16:20,640 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-07-18 04:16:20,641 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-07-18 04:16:20,695 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-07-18 04:16:20,695 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-07-18 04:16:20,759 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-07-18 04:16:20,768 - SalesSystem - INFO - Page transition to MainMenuPage completed in 8.40ms
+2025-07-18 04:16:21,579 - SalesSystem - INFO - Preparing enhanced page InventoryPage for display
+2025-07-18 04:16:26,037 - SalesSystem - INFO - Page transition to InventoryPage completed in 4457.78ms
+2025-07-18 04:17:04,660 - SalesSystem - INFO - Performance report: Processed 2 tasks in the last minute, average processing time: 0.08ms
+2025-07-18 04:17:40,051 - SalesSystem - INFO - Page transition to MainMenuPage completed in 6.86ms
+2025-07-18 04:17:40,537 - SalesSystem - INFO - Preparing enhanced page SalesPage for display
+2025-07-18 04:17:40,697 - SalesSystem - INFO - Page transition to SalesPage completed in 159.87ms
+2025-07-18 04:17:45,883 - SalesSystem - INFO - Page transition to MainMenuPage completed in 7.00ms
+2025-07-18 04:18:04,722 - SalesSystem - INFO - Performance report: Processed 1 tasks in the last minute, average processing time: 0.06ms
+2025-07-18 04:19:06,695 - SalesSystem - INFO - Application closing...
+2025-07-18 04:19:07,588 - SalesSystem - INFO - Final database connection stats: active=10, peak=11, total created=32, total returned=18
+2025-07-18 04:19:07,964 - SalesSystem - INFO - Final shutdown, application terminating
+2025-07-18 04:28:01,005 - SalesSystem - INFO - Connection pool initialized with 10 connections
+2025-07-18 04:29:34,807 - SalesSystem - INFO - Connection pool initialized with 10 connections
+2025-07-18 04:50:50,644 - SalesSystem - INFO - Initializing database...
+2025-07-18 04:50:50,855 - SalesSystem - INFO - Database optimization completed successfully in 0.02 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-07-18 04:50:59,960 - SalesSystem - INFO - User logged in: Gehad
+2025-07-18 04:50:59,962 - SalesSystem - INFO - Using enhanced pages for better performance
+2025-07-18 04:50:59,962 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-07-18 04:50:59,969 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-07-18 04:50:59,969 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-07-18 04:51:00,531 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-07-18 04:51:00,531 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-07-18 04:51:00,619 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-07-18 04:51:00,619 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-07-18 04:51:00,689 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-07-18 04:51:00,696 - SalesSystem - INFO - Page transition to MainMenuPage completed in 7.30ms
+2025-07-18 04:51:01,806 - SalesSystem - INFO - Preparing enhanced page InventoryPage for display
+2025-07-18 04:51:01,877 - SalesSystem - INFO - Page transition to InventoryPage completed in 71.37ms
+2025-07-18 04:51:31,349 - SalesSystem - INFO - Page transition to MainMenuPage completed in 6.28ms
+2025-07-18 04:51:36,399 - SalesSystem - INFO - Preparing enhanced page SalesPage for display
+2025-07-18 04:51:36,542 - SalesSystem - INFO - Page transition to SalesPage completed in 142.68ms
+2025-07-18 04:51:37,673 - SalesSystem - INFO - Page transition to MainMenuPage completed in 6.49ms
+2025-07-18 04:51:38,259 - SalesSystem - INFO - Preparing enhanced page DebitsPage for display
+2025-07-18 04:51:38,277 - SalesSystem - INFO - Page transition to DebitsPage completed in 18.73ms
+2025-07-18 04:51:47,964 - SalesSystem - ERROR - Attempted to show non-existent frame: StartPage
+2025-07-18 04:51:50,768 - SalesSystem - INFO - Performance report: Processed 3 tasks in the last minute, average processing time: 0.09ms
+2025-07-18 04:51:50,945 - SalesSystem - INFO - Application closing...
+2025-07-18 04:51:51,859 - SalesSystem - INFO - Final database connection stats: active=11, peak=13, total created=43, total returned=32
+2025-07-18 04:51:52,322 - SalesSystem - INFO - Final shutdown, application terminating
+2025-07-18 04:56:22,282 - SalesSystem - INFO - Initializing database...
+2025-07-18 04:56:22,287 - SalesSystem - INFO - Using enhanced pages for better performance
+2025-07-18 04:56:22,288 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-07-18 04:56:22,299 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-07-18 04:56:22,299 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-07-18 04:56:22,860 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-07-18 04:56:22,860 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-07-18 04:56:22,935 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-07-18 04:56:22,935 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-07-18 04:56:23,009 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-07-18 04:56:23,020 - SalesSystem - INFO - Page transition to MainMenuPage completed in 9.67ms
+2025-07-18 04:56:23,020 - SalesSystem - INFO - Preparing enhanced page DebitsPage for display
+2025-07-18 04:56:23,061 - SalesSystem - INFO - Page transition to DebitsPage completed in 40.43ms
+2025-07-18 04:57:17,685 - SalesSystem - INFO - Initializing database...
+2025-07-18 04:57:17,689 - SalesSystem - INFO - Using enhanced pages for better performance
+2025-07-18 04:57:17,689 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-07-18 04:57:17,698 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-07-18 04:57:17,698 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-07-18 04:57:18,286 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-07-18 04:57:18,287 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-07-18 04:57:18,357 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-07-18 04:57:18,358 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-07-18 04:57:18,429 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-07-18 04:57:18,439 - SalesSystem - INFO - Page transition to MainMenuPage completed in 9.90ms
+2025-07-18 04:57:18,440 - SalesSystem - INFO - Preparing enhanced page DebitsPage for display
+2025-07-18 04:57:18,482 - SalesSystem - INFO - Page transition to DebitsPage completed in 41.97ms
+2025-07-18 04:58:04,522 - SalesSystem - INFO - Initializing database...
+2025-07-18 04:58:04,527 - SalesSystem - INFO - Using enhanced pages for better performance
+2025-07-18 04:58:04,527 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-07-18 04:58:04,537 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-07-18 04:58:04,537 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-07-18 04:58:05,136 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-07-18 04:58:05,137 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-07-18 04:58:05,206 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-07-18 04:58:05,207 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-07-18 04:58:05,276 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-07-18 04:58:05,284 - SalesSystem - INFO - Page transition to MainMenuPage completed in 7.63ms
+2025-07-18 04:58:05,291 - SalesSystem - INFO - Page transition to MainMenuPage completed in 6.15ms
+2025-07-18 04:58:05,291 - SalesSystem - INFO - Preparing enhanced page InventoryPage for display
+2025-07-18 04:58:05,293 - SalesSystem - INFO - Page transition to InventoryPage completed in 2.30ms
+2025-07-18 04:58:05,294 - SalesSystem - INFO - Preparing enhanced page SalesPage for display
+2025-07-18 04:58:05,335 - SalesSystem - INFO - Page transition to SalesPage completed in 40.95ms
+2025-07-18 04:58:05,336 - SalesSystem - INFO - Preparing enhanced page DebitsPage for display
+2025-07-18 04:58:05,354 - SalesSystem - INFO - Page transition to DebitsPage completed in 18.28ms
+2025-07-18 05:08:52,589 - SalesSystem - INFO - Initializing database...
+2025-07-18 05:08:52,592 - SalesSystem - INFO - Using enhanced pages for better performance
+2025-07-18 05:08:52,593 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-07-18 05:08:52,601 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-07-18 05:08:52,602 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-07-18 05:08:53,210 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-07-18 05:08:53,210 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-07-18 05:08:53,281 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-07-18 05:08:53,281 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-07-18 05:08:53,354 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-07-18 05:08:53,364 - SalesSystem - INFO - Page transition to MainMenuPage completed in 9.94ms
+2025-07-18 05:08:53,374 - SalesSystem - INFO - Page transition to MainMenuPage completed in 8.86ms
+2025-07-18 05:08:53,375 - SalesSystem - INFO - Preparing enhanced page InventoryPage for display
+2025-07-18 05:08:53,377 - SalesSystem - INFO - Page transition to InventoryPage completed in 2.81ms
+2025-07-18 05:08:53,378 - SalesSystem - INFO - Preparing enhanced page SalesPage for display
+2025-07-18 05:08:53,429 - SalesSystem - INFO - Page transition to SalesPage completed in 50.49ms
+2025-07-18 05:08:53,429 - SalesSystem - INFO - Preparing enhanced page DebitsPage for display
+2025-07-18 05:08:53,454 - SalesSystem - INFO - Page transition to DebitsPage completed in 24.89ms
+2025-07-18 05:11:03,958 - SalesSystem - INFO - Initializing database...
+2025-07-18 05:11:03,963 - SalesSystem - INFO - Using enhanced pages for better performance
+2025-07-18 05:11:03,963 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-07-18 05:11:03,972 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-07-18 05:11:03,973 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-07-18 05:11:04,563 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-07-18 05:11:04,564 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-07-18 05:11:04,652 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-07-18 05:11:04,653 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-07-18 05:11:04,725 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-07-18 05:11:04,736 - SalesSystem - INFO - Page transition to MainMenuPage completed in 10.25ms
+2025-07-18 05:11:04,745 - SalesSystem - INFO - Page transition to MainMenuPage completed in 8.49ms
+2025-07-18 05:11:04,746 - SalesSystem - INFO - Preparing enhanced page InventoryPage for display
+2025-07-18 05:11:04,750 - SalesSystem - INFO - Page transition to InventoryPage completed in 3.48ms
+2025-07-18 05:11:04,751 - SalesSystem - INFO - Preparing enhanced page SalesPage for display
+2025-07-18 05:11:04,815 - SalesSystem - INFO - Page transition to SalesPage completed in 64.33ms
+2025-07-18 05:11:04,826 - SalesSystem - INFO - Preparing enhanced page DebitsPage for display
+2025-07-18 05:11:04,848 - SalesSystem - INFO - Page transition to DebitsPage completed in 21.90ms
+2025-07-18 05:15:22,284 - SalesSystem - INFO - Initializing database...
+2025-07-18 05:15:22,289 - SalesSystem - INFO - Using enhanced pages for better performance
+2025-07-18 05:15:22,289 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-07-18 05:15:22,299 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-07-18 05:15:22,300 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-07-18 05:15:22,872 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-07-18 05:15:22,873 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-07-18 05:15:22,952 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-07-18 05:15:22,952 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-07-18 05:15:23,038 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-07-18 05:15:23,048 - SalesSystem - INFO - Page transition to MainMenuPage completed in 9.45ms
+2025-07-18 05:15:23,165 - SalesSystem - INFO - Initializing database...
+2025-07-18 05:15:23,170 - SalesSystem - INFO - Using enhanced pages for better performance
+2025-07-18 05:15:23,171 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-07-18 05:15:23,179 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-07-18 05:15:23,180 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-07-18 05:15:23,227 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-07-18 05:15:23,228 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-07-18 05:15:23,268 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-07-18 05:15:23,268 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-07-18 05:15:23,297 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-07-18 05:15:23,304 - SalesSystem - INFO - Page transition to MainMenuPage completed in 6.52ms
+2025-07-18 05:15:23,402 - SalesSystem - INFO - Initializing database...
+2025-07-18 05:15:23,404 - SalesSystem - INFO - Using enhanced pages for better performance
+2025-07-18 05:15:23,405 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-07-18 05:15:23,410 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-07-18 05:15:23,410 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-07-18 05:15:23,438 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-07-18 05:15:23,439 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-07-18 05:15:23,480 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-07-18 05:15:23,480 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-07-18 05:15:23,508 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-07-18 05:15:23,515 - SalesSystem - INFO - Page transition to MainMenuPage completed in 6.10ms
+2025-07-19 03:26:11,720 - SalesSystem - INFO - Initializing database...
+2025-07-19 03:26:11,884 - SalesSystem - INFO - Database optimization completed successfully in 0.02 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-07-19 03:26:21,204 - SalesSystem - INFO - User logged in: Gehad
+2025-07-19 03:26:21,206 - SalesSystem - INFO - Using enhanced pages for better performance
+2025-07-19 03:26:21,206 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-07-19 03:26:21,213 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-07-19 03:26:21,213 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-07-19 03:26:21,951 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-07-19 03:26:21,951 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-07-19 03:26:22,025 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-07-19 03:26:22,026 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-07-19 03:26:22,094 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-07-19 03:26:22,102 - SalesSystem - INFO - Page transition to MainMenuPage completed in 7.58ms
+2025-07-19 03:26:23,206 - SalesSystem - INFO - Preparing enhanced page InventoryPage for display
+2025-07-19 03:26:23,229 - SalesSystem - INFO - Page transition to InventoryPage completed in 22.68ms
+2025-07-19 03:26:25,294 - SalesSystem - INFO - Page transition to MainMenuPage completed in 5.98ms
+2025-07-19 03:26:25,929 - SalesSystem - INFO - Preparing enhanced page SalesPage for display
+2025-07-19 03:26:26,083 - SalesSystem - INFO - Page transition to SalesPage completed in 153.95ms
+2025-07-19 03:26:27,277 - SalesSystem - INFO - Page transition to MainMenuPage completed in 5.63ms
+2025-07-19 03:26:27,887 - SalesSystem - INFO - Preparing enhanced page InventoryPage for display
+2025-07-19 03:26:27,910 - SalesSystem - INFO - Page transition to InventoryPage completed in 22.73ms
+2025-07-19 03:44:04,488 - SalesSystem - INFO - Initializing database...
+2025-07-19 03:47:49,452 - SalesSystem - INFO - Initializing database...
+2025-07-19 03:47:49,654 - SalesSystem - INFO - Database optimization completed successfully in 0.02 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-07-19 03:48:00,433 - SalesSystem - INFO - User logged in: Gehad
+2025-07-19 03:48:00,436 - SalesSystem - INFO - Using modern 2025 style pages for best experience
+2025-07-19 03:48:00,436 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-07-19 03:48:00,445 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-07-19 03:48:00,445 - SalesSystem - INFO - Initializing page: ModernInventoryPage2025
+2025-07-19 03:48:01,205 - SalesSystem - INFO - Successfully initialized page: ModernInventoryPage2025
+2025-07-19 03:48:01,205 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-07-19 03:48:01,314 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-07-19 03:48:01,315 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-07-19 03:48:01,403 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-07-19 03:48:01,413 - SalesSystem - INFO - Page transition to MainMenuPage completed in 9.75ms
+2025-07-19 03:48:02,237 - SalesSystem - INFO - Preparing enhanced page InventoryPage for display
+2025-07-19 03:48:02,272 - SalesSystem - INFO - Page transition to InventoryPage completed in 34.85ms
+2025-07-19 03:48:49,568 - SalesSystem - INFO - Performance report: Processed 2 tasks in the last minute, average processing time: 0.10ms
+2025-07-19 03:55:03,868 - SalesSystem - INFO - Application closing...
+2025-07-19 03:55:05,038 - SalesSystem - INFO - Final database connection stats: active=15, peak=15, total created=30, total returned=8
+2025-07-19 03:55:05,545 - SalesSystem - INFO - Final shutdown, application terminating
+2025-07-19 03:56:21,071 - SalesSystem - INFO - Initializing database...
+2025-07-19 03:56:21,268 - SalesSystem - INFO - Database optimization completed successfully in 0.02 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-07-19 03:56:27,006 - SalesSystem - INFO - User logged in: Gehad
+2025-07-19 03:56:27,007 - SalesSystem - INFO - Using professional inventory management system
+2025-07-19 03:56:27,007 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-07-19 03:56:27,013 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-07-19 03:56:27,014 - SalesSystem - INFO - Initializing page: ProfessionalInventoryPage
+2025-07-19 03:56:27,030 - SalesSystem - INFO - Successfully initialized page: ProfessionalInventoryPage
+2025-07-19 03:56:27,030 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-07-19 03:56:27,458 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-07-19 03:56:27,459 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-07-19 03:56:27,556 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-07-19 03:56:27,566 - SalesSystem - INFO - Page transition to MainMenuPage completed in 9.65ms
+2025-07-19 03:56:28,041 - SalesSystem - INFO - Preparing enhanced page InventoryPage for display
+2025-07-19 03:56:28,048 - SalesSystem - INFO - Page transition to InventoryPage completed in 6.64ms
+2025-07-19 03:56:48,597 - SalesSystem - INFO - Application closing...
+2025-07-19 03:56:49,810 - SalesSystem - INFO - Final database connection stats: active=8, peak=8, total created=25, total returned=8
+2025-07-19 03:56:50,088 - SalesSystem - INFO - Final shutdown, application terminating
+2025-07-19 04:13:06,716 - SalesSystem - INFO - Initializing database...
+2025-07-19 04:14:06,670 - SalesSystem - INFO - Initializing database...
+2025-07-19 04:18:12,186 - SalesSystem - INFO - Initializing database...
+2025-07-19 04:18:12,374 - SalesSystem - INFO - Database optimization completed successfully in 0.02 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-07-19 04:18:18,512 - SalesSystem - INFO - User logged in: Gehad
+2025-07-19 04:18:18,513 - SalesSystem - INFO - Using professional enhanced inventory management system
+2025-07-19 04:18:18,514 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-07-19 04:18:18,521 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-07-19 04:18:18,521 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-07-19 04:18:19,117 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-07-19 04:18:19,117 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-07-19 04:18:19,167 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-07-19 04:18:19,168 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-07-19 04:18:19,246 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-07-19 04:18:19,254 - SalesSystem - INFO - Page transition to MainMenuPage completed in 7.47ms
+2025-07-19 04:18:19,964 - SalesSystem - INFO - Page transition to InventoryPage completed in 5.79ms
+2025-07-19 04:19:12,334 - SalesSystem - INFO - Performance report: Processed 2 tasks in the last minute, average processing time: 0.09ms
+2025-07-19 04:29:15,818 - SalesSystem - INFO - Application closing...
+2025-07-19 04:29:16,895 - SalesSystem - INFO - Final database connection stats: active=2, peak=3, total created=21, total returned=10
+2025-07-19 04:29:17,247 - SalesSystem - INFO - Final shutdown, application terminating
+2025-07-19 04:29:21,907 - SalesSystem - INFO - Initializing database...
+2025-07-19 04:29:22,097 - SalesSystem - INFO - Database optimization completed successfully in 0.02 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-07-19 04:29:29,333 - SalesSystem - INFO - User logged in: Gehad
+2025-07-19 04:29:29,334 - SalesSystem - INFO - Using professional enhanced inventory management system
+2025-07-19 04:29:29,335 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-07-19 04:29:29,341 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-07-19 04:29:29,342 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-07-19 04:29:29,932 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-07-19 04:29:29,932 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-07-19 04:29:29,984 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-07-19 04:29:29,985 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-07-19 04:29:30,062 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-07-19 04:29:30,070 - SalesSystem - INFO - Page transition to MainMenuPage completed in 7.21ms
+2025-07-19 04:29:30,999 - SalesSystem - INFO - Page transition to InventoryPage completed in 5.74ms
+2025-07-19 04:30:22,110 - SalesSystem - INFO - Performance report: Processed 2 tasks in the last minute, average processing time: 0.12ms
+2025-07-19 04:30:42,800 - SalesSystem - INFO - Page transition to MainMenuPage completed in 6.00ms
+2025-07-19 04:30:43,493 - SalesSystem - INFO - Preparing enhanced page SalesPage for display
+2025-07-19 04:30:43,651 - SalesSystem - INFO - Page transition to SalesPage completed in 158.30ms
+2025-07-19 04:30:46,890 - SalesSystem - INFO - Page transition to MainMenuPage completed in 6.16ms
+2025-07-19 04:30:47,618 - SalesSystem - INFO - Page transition to InventoryPage completed in 5.92ms
+2025-07-19 04:30:58,749 - SalesSystem - INFO - Page transition to MainMenuPage completed in 5.94ms
+2025-07-19 04:30:59,765 - SalesSystem - INFO - Application closing...
+2025-07-19 04:31:00,700 - SalesSystem - INFO - Final database connection stats: active=3, peak=4, total created=26, total returned=14
+2025-07-19 04:31:01,158 - SalesSystem - INFO - Final shutdown, application terminating
+2025-07-19 17:18:27,287 - SalesSystem - INFO - Initializing database...
+2025-07-19 17:18:27,444 - SalesSystem - INFO - Database optimization completed successfully in 0.04 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-07-19 17:18:33,922 - SalesSystem - INFO - User logged in: Gehad
+2025-07-19 17:18:33,925 - SalesSystem - INFO - Using professional enhanced inventory management system
+2025-07-19 17:18:33,926 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-07-19 17:18:33,948 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-07-19 17:18:33,948 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-07-19 17:18:34,882 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-07-19 17:18:34,883 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-07-19 17:18:34,951 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-07-19 17:18:34,951 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-07-19 17:18:35,035 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-07-19 17:18:35,044 - SalesSystem - INFO - Page transition to MainMenuPage completed in 8.07ms
+2025-07-19 17:18:39,470 - SalesSystem - INFO - Page transition to InventoryPage completed in 5.82ms
+2025-07-19 17:19:27,407 - SalesSystem - INFO - Performance report: Processed 2 tasks in the last minute, average processing time: 0.12ms
+2025-07-19 17:19:32,884 - SalesSystem - INFO - Application closing...
+2025-07-19 17:19:34,421 - SalesSystem - INFO - Final database connection stats: active=2, peak=3, total created=21, total returned=10
+2025-07-19 17:19:34,543 - SalesSystem - INFO - Final shutdown, application terminating
+2025-07-19 18:05:45,914 - SalesSystem - INFO - Initializing database...
+2025-07-19 18:05:46,109 - SalesSystem - INFO - Database optimization completed successfully in 0.02 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-07-19 18:06:02,696 - SalesSystem - INFO - User logged in: Gehad
+2025-07-19 18:06:02,698 - SalesSystem - INFO - Using professional enhanced inventory management system
+2025-07-19 18:06:02,698 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-07-19 18:06:02,708 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-07-19 18:06:02,708 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-07-19 18:06:03,412 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-07-19 18:06:03,413 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-07-19 18:06:03,471 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-07-19 18:06:03,472 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-07-19 18:06:03,546 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-07-19 18:06:03,556 - SalesSystem - INFO - Page transition to MainMenuPage completed in 10.40ms
+2025-07-19 18:06:04,297 - SalesSystem - INFO - Page transition to InventoryPage completed in 8.80ms
+2025-07-19 18:06:46,048 - SalesSystem - INFO - Performance report: Processed 2 tasks in the last minute, average processing time: 0.08ms
+2025-07-19 18:06:53,666 - SalesSystem - INFO - Page transition to MainMenuPage completed in 5.33ms
+2025-07-19 18:06:54,084 - SalesSystem - INFO - Page transition to InventoryPage completed in 5.39ms
+2025-07-19 18:07:18,707 - SalesSystem - INFO - Page transition to MainMenuPage completed in 7.58ms
+2025-07-19 18:07:19,187 - SalesSystem - INFO - Preparing enhanced page SalesPage for display
+2025-07-19 18:07:19,328 - SalesSystem - INFO - Page transition to SalesPage completed in 140.55ms
+2025-07-19 18:07:38,400 - SalesSystem - INFO - Page transition to MainMenuPage completed in 5.92ms
+2025-07-19 18:07:38,844 - SalesSystem - INFO - Application closing...
+2025-07-19 18:07:42,523 - SalesSystem - INFO - Page transition to MainMenuPage completed in 4.11ms
+2025-07-19 18:07:43,276 - SalesSystem - INFO - Page transition to InventoryPage completed in 6.64ms
+2025-07-19 18:07:47,577 - SalesSystem - INFO - Page transition to MainMenuPage completed in 6.28ms
+2025-07-19 18:07:48,844 - SalesSystem - INFO - Application closing...
+2025-07-19 18:07:49,714 - SalesSystem - INFO - Final database connection stats: active=4, peak=5, total created=30, total returned=17
+2025-07-19 18:07:49,917 - SalesSystem - INFO - Final shutdown, application terminating
+2025-07-19 18:26:27,676 - SalesSystem - INFO - Initializing database...
+2025-07-19 18:26:27,839 - SalesSystem - INFO - Database optimization completed successfully in 0.02 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-07-19 18:26:34,164 - SalesSystem - INFO - User logged in: Gehad
+2025-07-19 18:26:34,165 - SalesSystem - INFO - Using professional enhanced inventory management system
+2025-07-19 18:26:34,166 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-07-19 18:26:34,205 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-07-19 18:26:34,206 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-07-19 18:26:34,841 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-07-19 18:26:34,841 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-07-19 18:26:34,911 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-07-19 18:26:34,912 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-07-19 18:26:34,982 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-07-19 18:26:35,006 - SalesSystem - INFO - Page transition to MainMenuPage completed in 23.20ms
+2025-07-19 18:26:38,365 - SalesSystem - INFO - Page transition to InventoryPage completed in 6.99ms
+2025-07-19 18:27:27,750 - SalesSystem - INFO - Performance report: Processed 2 tasks in the last minute, average processing time: 0.16ms
+2025-07-19 18:32:49,328 - SalesSystem - INFO - Page transition to MainMenuPage completed in 7.46ms
+2025-07-19 18:32:50,496 - SalesSystem - INFO - Page transition to InventoryPage completed in 5.72ms
+2025-07-19 18:32:52,199 - SalesSystem - INFO - Application closing...
+2025-07-19 18:32:53,356 - SalesSystem - INFO - Final database connection stats: active=3, peak=4, total created=23, total returned=11
+2025-07-19 18:32:53,859 - SalesSystem - INFO - Final shutdown, application terminating
+2025-07-19 18:51:53,852 - SalesSystem - INFO - Initializing database...
+2025-07-19 18:51:54,047 - SalesSystem - INFO - Database optimization completed successfully in 0.02 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-07-19 18:52:02,646 - SalesSystem - INFO - User logged in: Gehad
+2025-07-19 18:52:02,648 - SalesSystem - INFO - Using professional enhanced inventory management system
+2025-07-19 18:52:02,648 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-07-19 18:52:02,678 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-07-19 18:52:02,678 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-07-19 18:52:03,333 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-07-19 18:52:03,333 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-07-19 18:52:03,402 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-07-19 18:52:03,403 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-07-19 18:52:03,475 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-07-19 18:52:03,494 - SalesSystem - INFO - Page transition to MainMenuPage completed in 18.15ms
+2025-07-19 18:52:04,465 - SalesSystem - INFO - Page transition to InventoryPage completed in 8.64ms
+2025-07-19 18:52:07,684 - SalesSystem - INFO - Page transition to MainMenuPage completed in 6.95ms
+2025-07-19 18:52:09,674 - SalesSystem - INFO - Page transition to InventoryPage completed in 6.40ms
+2025-07-19 18:52:10,980 - SalesSystem - INFO - Page transition to MainMenuPage completed in 8.26ms
+2025-07-19 18:52:12,038 - SalesSystem - INFO - Page transition to MainMenuPage completed in 6.69ms
+2025-07-19 18:52:12,626 - SalesSystem - INFO - Page transition to InventoryPage completed in 6.56ms
+2025-07-19 18:52:13,800 - SalesSystem - INFO - Page transition to MainMenuPage completed in 9.13ms
+2025-07-19 18:52:14,333 - SalesSystem - INFO - Preparing enhanced page SalesPage for display
+2025-07-19 18:52:14,355 - SalesSystem - INFO - Page transition to SalesPage completed in 22.06ms
+2025-07-19 18:52:15,941 - SalesSystem - INFO - Page transition to MainMenuPage completed in 8.63ms
+2025-07-19 18:52:16,533 - SalesSystem - INFO - Page transition to InventoryPage completed in 4.81ms
+2025-07-19 18:52:17,755 - SalesSystem - INFO - Page transition to MainMenuPage completed in 8.00ms
+2025-07-19 18:52:18,198 - SalesSystem - INFO - Preparing enhanced page DebitsPage for display
+2025-07-19 18:52:18,217 - SalesSystem - INFO - Page transition to DebitsPage completed in 19.31ms
+2025-07-19 18:52:25,139 - SalesSystem - ERROR - Attempted to show non-existent frame: StartPage
+2025-07-19 18:52:30,765 - SalesSystem - INFO - Application closing...
+2025-07-19 18:52:31,786 - SalesSystem - INFO - Final database connection stats: active=5, peak=7, total created=32, total returned=20
+2025-07-19 18:52:32,121 - SalesSystem - INFO - Final shutdown, application terminating
+2025-07-19 18:55:40,853 - SalesSystem - INFO - Initializing database...
+2025-07-19 18:55:41,040 - SalesSystem - INFO - Database optimization completed successfully in 0.02 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-07-19 18:55:47,990 - SalesSystem - INFO - User logged in: Gehad
+2025-07-19 18:55:47,991 - SalesSystem - INFO - Using professional enhanced inventory management system
+2025-07-19 18:55:47,991 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-07-19 18:55:47,999 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-07-19 18:55:47,999 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-07-19 18:55:48,671 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-07-19 18:55:48,671 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-07-19 18:55:48,727 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-07-19 18:55:48,727 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-07-19 18:55:48,799 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-07-19 18:55:48,811 - SalesSystem - INFO - Page transition to MainMenuPage completed in 11.66ms
+2025-07-19 18:55:49,358 - SalesSystem - INFO - Page transition to InventoryPage completed in 7.96ms
+2025-07-19 18:56:40,948 - SalesSystem - INFO - Performance report: Processed 2 tasks in the last minute, average processing time: 0.10ms
+2025-07-19 19:01:20,398 - SalesSystem - INFO - Application closing...
+2025-07-19 19:01:24,576 - SalesSystem - INFO - Final database connection stats: active=3, peak=4, total created=23, total returned=11
+2025-07-19 19:01:24,599 - SalesSystem - INFO - Final shutdown, application terminating
+2025-07-19 19:08:06,994 - SalesSystem - INFO - Initializing database...
+2025-07-19 19:08:07,191 - SalesSystem - INFO - Database optimization completed successfully in 0.02 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-07-23 22:58:25,667 - SalesSystem - INFO - Initializing database...
+2025-07-23 22:58:25,922 - SalesSystem - INFO - Database optimization completed successfully in 0.04 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-07-23 22:58:33,312 - SalesSystem - INFO - User logged in: Gehad
+2025-07-23 22:58:33,324 - SalesSystem - INFO - Using professional enhanced inventory management system
+2025-07-23 22:58:33,324 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-07-23 22:58:33,338 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-07-23 22:58:33,339 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-07-23 22:58:34,518 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-07-23 22:58:34,519 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-07-23 22:58:34,600 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-07-23 22:58:34,601 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-07-23 22:58:34,688 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-07-23 22:58:34,701 - SalesSystem - INFO - Page transition to MainMenuPage completed in 12.00ms
+2025-07-23 22:58:36,317 - SalesSystem - INFO - Preparing enhanced page SalesPage for display
+2025-07-23 22:58:44,980 - SalesSystem - INFO - Page transition to SalesPage completed in 8663.54ms
+2025-07-23 22:58:53,892 - SalesSystem - INFO - Page transition to MainMenuPage completed in 9.75ms
+2025-07-23 22:58:54,933 - SalesSystem - INFO - Page transition to InventoryPage completed in 12.69ms
+2025-07-23 22:58:56,673 - SalesSystem - INFO - Page transition to MainMenuPage completed in 12.82ms
+2025-07-23 22:59:25,812 - SalesSystem - INFO - Performance report: Processed 2 tasks in the last minute, average processing time: 0.12ms
+2025-07-23 23:11:17,698 - SalesSystem - INFO - Initializing database...
+2025-07-23 23:11:17,888 - SalesSystem - INFO - Database optimization completed successfully in 0.03 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-07-23 23:13:05,820 - SalesSystem - INFO - Initializing database...
+2025-07-23 23:13:06,027 - SalesSystem - INFO - Database optimization completed successfully in 0.03 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-07-23 23:13:12,562 - SalesSystem - INFO - User logged in: Gehad
+2025-07-23 23:13:12,564 - SalesSystem - INFO - Using professional enhanced inventory management system
+2025-07-23 23:13:12,565 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-07-23 23:13:12,580 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-07-23 23:13:12,580 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-07-23 23:13:13,357 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-07-23 23:13:13,357 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-07-23 23:13:15,257 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-07-23 23:13:15,258 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-07-23 23:13:15,359 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-07-23 23:13:15,374 - SalesSystem - INFO - Page transition to MainMenuPage completed in 14.77ms
+2025-07-23 23:13:16,399 - SalesSystem - INFO - Preparing enhanced page SalesPage for display
+2025-07-23 23:13:18,307 - SalesSystem - INFO - Page transition to SalesPage completed in 1908.69ms
+2025-07-23 23:14:05,964 - SalesSystem - INFO - Performance report: Processed 2 tasks in the last minute, average processing time: 0.11ms
+2025-07-23 23:19:54,695 - SalesSystem - INFO - Application closing...
+2025-07-23 23:19:55,587 - SalesSystem - INFO - Final database connection stats: active=0, peak=1, total created=29, total returned=20
+2025-07-23 23:19:55,979 - SalesSystem - INFO - Final shutdown, application terminating
+2025-07-23 23:31:17,260 - SalesSystem - INFO - Initializing database...
+2025-07-23 23:31:17,443 - SalesSystem - INFO - Database optimization completed successfully in 0.03 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-07-23 23:33:19,776 - SalesSystem - INFO - Initializing database...
+2025-07-23 23:33:20,063 - SalesSystem - INFO - Database optimization completed successfully in 0.08 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-07-23 23:33:30,372 - SalesSystem - INFO - Initializing database...
+2025-07-23 23:33:30,574 - SalesSystem - INFO - Database optimization completed successfully in 0.07 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-07-23 23:33:39,645 - SalesSystem - INFO - User logged in: Gehad
+2025-07-23 23:33:39,649 - SalesSystem - INFO - Using professional enhanced inventory management system
+2025-07-23 23:33:39,650 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-07-23 23:33:39,676 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-07-23 23:33:39,676 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-07-23 23:33:40,546 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-07-23 23:33:40,546 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-07-23 23:33:40,942 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-07-23 23:33:40,943 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-07-23 23:33:41,050 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-07-23 23:33:41,061 - SalesSystem - INFO - Page transition to MainMenuPage completed in 11.13ms
+2025-07-23 23:33:42,008 - SalesSystem - INFO - Preparing enhanced page SalesPage for display
+2025-07-23 23:33:43,125 - SalesSystem - ERROR - Error showing frame SalesPage: 'EnhancedSalesPage' object has no attribute '_update_header_stats'
+2025-07-23 23:33:45,888 - SalesSystem - INFO - Preparing enhanced page SalesPage for display
+2025-07-23 23:33:46,965 - SalesSystem - ERROR - Error showing frame SalesPage: 'EnhancedSalesPage' object has no attribute '_update_header_stats'
+2025-07-23 23:33:52,780 - SalesSystem - INFO - Page transition to InventoryPage completed in 11.40ms
+2025-07-23 23:34:14,425 - SalesSystem - INFO - Page transition to MainMenuPage completed in 10.52ms
+2025-07-23 23:34:15,306 - SalesSystem - INFO - Preparing enhanced page DebitsPage for display
+2025-07-23 23:34:15,467 - SalesSystem - INFO - Page transition to DebitsPage completed in 160.90ms
+2025-07-23 23:34:25,682 - SalesSystem - ERROR - Attempted to show non-existent frame: StartPage
+2025-07-23 23:34:27,815 - SalesSystem - INFO - Application closing...
+2025-07-23 23:34:28,940 - SalesSystem - INFO - Final database connection stats: active=0, peak=2, total created=24, total returned=15
+2025-07-23 23:34:29,147 - SalesSystem - INFO - Final shutdown, application terminating
+2025-07-23 23:40:11,742 - SalesSystem - INFO - Initializing database...
+2025-07-23 23:40:11,932 - SalesSystem - INFO - Database optimization completed successfully in 0.05 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-07-23 23:40:19,065 - SalesSystem - INFO - User logged in: Gehad
+2025-07-23 23:40:19,067 - SalesSystem - INFO - Using professional enhanced inventory management system
+2025-07-23 23:40:19,067 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-07-23 23:40:19,081 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-07-23 23:40:19,081 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-07-23 23:40:19,978 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-07-23 23:40:19,979 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-07-23 23:40:20,294 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-07-23 23:40:20,295 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-07-23 23:40:20,385 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-07-23 23:40:20,397 - SalesSystem - INFO - Page transition to MainMenuPage completed in 11.42ms
+2025-07-23 23:40:21,562 - SalesSystem - INFO - Preparing enhanced page SalesPage for display
+2025-07-23 23:40:22,631 - SalesSystem - ERROR - Error showing frame SalesPage: 'EnhancedSalesPage' object has no attribute 'discount_var'
+2025-07-23 23:40:24,239 - SalesSystem - INFO - Preparing enhanced page SalesPage for display
+2025-07-23 23:40:25,010 - SalesSystem - ERROR - Error showing frame SalesPage: 'EnhancedSalesPage' object has no attribute 'discount_var'
+2025-07-23 23:43:06,242 - SalesSystem - INFO - Initializing database...
+2025-07-23 23:43:06,438 - SalesSystem - INFO - Database optimization completed successfully in 0.05 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-07-23 23:43:12,590 - SalesSystem - INFO - User logged in: Gehad
+2025-07-23 23:43:12,591 - SalesSystem - INFO - Using professional enhanced inventory management system
+2025-07-23 23:43:12,592 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-07-23 23:43:12,605 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-07-23 23:43:12,606 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-07-23 23:43:13,472 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-07-23 23:43:13,472 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-07-23 23:43:13,774 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-07-23 23:43:13,775 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-07-23 23:43:13,861 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-07-23 23:43:13,873 - SalesSystem - INFO - Page transition to MainMenuPage completed in 11.04ms
+2025-07-23 23:43:15,187 - SalesSystem - INFO - Preparing enhanced page SalesPage for display
+2025-07-23 23:43:18,035 - SalesSystem - ERROR - Error showing frame SalesPage: 'EnhancedSalesPage' object has no attribute 'category_buttons_frame'
+2025-07-23 23:44:06,344 - SalesSystem - INFO - Performance report: Processed 2 tasks in the last minute, average processing time: 0.15ms
+2025-07-23 23:46:13,361 - SalesSystem - INFO - Application closing...
+2025-07-23 23:46:14,504 - SalesSystem - INFO - Final database connection stats: active=0, peak=1, total created=20, total returned=11
+2025-07-23 23:46:14,928 - SalesSystem - INFO - Final shutdown, application terminating
+2025-07-23 23:46:20,827 - SalesSystem - INFO - Initializing database...
+2025-07-23 23:46:21,015 - SalesSystem - INFO - Database optimization completed successfully in 0.02 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-07-23 23:46:28,800 - SalesSystem - INFO - User logged in: Gehad
+2025-07-23 23:46:28,802 - SalesSystem - INFO - Using professional enhanced inventory management system
+2025-07-23 23:46:28,802 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-07-23 23:46:28,810 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-07-23 23:46:28,810 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-07-23 23:46:29,403 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-07-23 23:46:29,403 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-07-23 23:46:29,610 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-07-23 23:46:29,611 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-07-23 23:46:29,670 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-07-23 23:46:29,677 - SalesSystem - INFO - Page transition to MainMenuPage completed in 6.94ms
+2025-07-23 23:46:37,170 - SalesSystem - INFO - Preparing enhanced page SalesPage for display
+2025-07-23 23:46:38,674 - SalesSystem - INFO - Page transition to SalesPage completed in 1504.33ms
+2025-07-23 23:47:20,987 - SalesSystem - INFO - Performance report: Processed 2 tasks in the last minute, average processing time: 0.19ms
+2025-07-23 23:50:57,492 - SalesSystem - INFO - Application closing...
+2025-07-23 23:50:58,504 - SalesSystem - INFO - Final database connection stats: active=0, peak=1, total created=21, total returned=12
+2025-07-23 23:50:58,701 - SalesSystem - INFO - Final shutdown, application terminating
+2025-08-17 19:17:49,951 - SalesSystem - INFO - Initializing database...
+2025-08-17 19:17:50,114 - SalesSystem - INFO - Database optimization completed successfully in 0.03 seconds. Steps: pragmas_set, integrity_verified, indexes_created, statistics_updated, vacuum_completed, optimization_completed
+2025-08-17 19:17:56,785 - SalesSystem - INFO - User logged in: Gehad
+2025-08-17 19:17:56,787 - SalesSystem - INFO - Using professional enhanced inventory management system
+2025-08-17 19:17:56,787 - SalesSystem - INFO - Initializing page: MainMenuPage
+2025-08-17 19:17:56,795 - SalesSystem - INFO - Successfully initialized page: MainMenuPage
+2025-08-17 19:17:56,796 - SalesSystem - INFO - Initializing page: EnhancedInventoryPage
+2025-08-17 19:17:57,766 - SalesSystem - INFO - Successfully initialized page: EnhancedInventoryPage
+2025-08-17 19:17:57,767 - SalesSystem - INFO - Initializing page: EnhancedSalesPage
+2025-08-17 19:17:57,990 - SalesSystem - INFO - Successfully initialized page: EnhancedSalesPage
+2025-08-17 19:17:57,991 - SalesSystem - INFO - Initializing page: EnhancedDebitsPage
+2025-08-17 19:17:58,056 - SalesSystem - INFO - Successfully initialized page: EnhancedDebitsPage
+2025-08-17 19:17:58,065 - SalesSystem - INFO - Page transition to MainMenuPage completed in 8.36ms
+2025-08-17 19:17:59,183 - SalesSystem - INFO - Preparing enhanced page SalesPage for display
+2025-08-17 19:18:01,387 - SalesSystem - INFO - Page transition to SalesPage completed in 2204.43ms
+2025-08-17 19:18:02,956 - SalesSystem - INFO - Page transition to MainMenuPage completed in 5.78ms
+2025-08-17 19:18:03,446 - SalesSystem - INFO - Page transition to InventoryPage completed in 6.63ms
+2025-08-17 19:18:05,394 - SalesSystem - INFO - Page transition to MainMenuPage completed in 6.31ms
+2025-08-17 19:18:06,017 - SalesSystem - INFO - Preparing enhanced page SalesPage for display
+2025-08-17 19:18:07,580 - SalesSystem - INFO - Page transition to SalesPage completed in 1563.51ms
+2025-08-17 19:18:09,470 - SalesSystem - INFO - Page transition to MainMenuPage completed in 8.39ms
+2025-08-17 19:18:15,788 - SalesSystem - INFO - Page transition to MainMenuPage completed in 5.35ms
