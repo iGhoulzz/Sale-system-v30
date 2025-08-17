@@ -1,0 +1,79 @@
+﻿# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE/editor
+.vscode/
+.idea/
+*.sublime-*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+app.log
+
+# Local settings / secrets
+.env
+.env.local
+secrets.json
+credentials.json
+*.key
+*.pem
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Test / coverage caches
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+
+# Compiled artifacts
+*.pyc
+*.pyd
+*.so
+
+# Database files (local dev) — keep schema/migrations, ignore DB blobs
+*.db
+*.sqlite3
+database/*.db
+database/*-wal
+database/*-shm
+sales_db.db
+sales_system.db
+store.db
+
+# Caches and temporary files
+tmp/
+*.tmp
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# GitHub Actions runner logs / local runner folders
+.github/actions/
+runner/
+
+# Optional: ignore large generated assets if you don't plan to track them
+# assets/*.png
+# assets/*.jpg
+# assets/*.pdf
+
+# Git LFS pointer files (if using LFS)
+*.psd
+*.zip
