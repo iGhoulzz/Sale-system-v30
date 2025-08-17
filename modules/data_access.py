@@ -1445,3 +1445,76 @@ def get_recent_invoices(limit=10):
     except Exception as e:
         logger.error(f"Error getting recent invoices: {e}")
         return []
+
+# ===== Missing Function Aliases for Compatibility =====
+
+def get_all_products():
+    """Alias for get_products() for backward compatibility"""
+    return get_products()
+
+def get_sales_data(limit=None):
+    """Get sales data with optional limit"""
+    try:
+        with ConnectionContext() as conn:
+            cursor = conn.cursor()
+            
+            if limit:
+                cursor.execute("""
+                    SELECT i.InvoiceID as SaleID, i.DateTime as Date, i.TotalAmount,
+                           COUNT(ii.ItemID) as item_count
+                    FROM Invoices i
+                    LEFT JOIN InvoiceItems ii ON i.InvoiceID = ii.InvoiceID
+                    GROUP BY i.InvoiceID, i.DateTime, i.TotalAmount
+                    ORDER BY i.DateTime DESC
+                    LIMIT ?
+                """, (limit,))
+            else:
+                cursor.execute("""
+                    SELECT i.InvoiceID as SaleID, i.DateTime as Date, i.TotalAmount,
+                           COUNT(ii.ItemID) as item_count
+                    FROM Invoices i
+                    LEFT JOIN InvoiceItems ii ON i.InvoiceID = ii.InvoiceID
+                    GROUP BY i.InvoiceID, i.DateTime, i.TotalAmount
+                    ORDER BY i.DateTime DESC
+                """)
+            
+            return [dict(row) for row in cursor.fetchall()]
+            
+    except Exception as e:
+        logger.error(f"Error fetching sales data: {e}")
+        return []
+
+def get_debits_data(limit=None):
+    """Get debits data with optional limit"""
+    try:
+        # Use the existing get_debits function with proper parameters
+        debits = get_debits()
+        
+        if limit and len(debits) > limit:
+            debits = debits[:limit]
+        
+        # Return in the expected format - handle both list and dict items
+        total_count = len(debits)
+        pending_count = 0
+        paid_count = 0
+        
+        for debit in debits:
+            if isinstance(debit, dict):
+                status = debit.get('Status', '').lower()
+            else:
+                # Handle other data types if needed
+                status = 'unknown'
+            
+            if status == 'unpaid':
+                pending_count += 1
+            elif status == 'paid':
+                paid_count += 1
+        
+        return debits, {
+            'total': total_count,
+            'pending': pending_count,
+            'paid': paid_count
+        }
+    except Exception as e:
+        logger.error(f"Error fetching debits data: {e}")
+        return [], {'total': 0, 'pending': 0, 'paid': 0}
